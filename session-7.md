@@ -54,33 +54,9 @@ Genotypic data is exported asynchronously meaning you can keep using Germinate w
 
 ## Tasks:
 
-1. <details>
-   <summary>Identify the maps page. How many maps are there?</summary>
-
-    ## Answer: X
-   </details>
-2. <details>
-   <summary>How big is the largest map?</summary>
-
-    ## Answer: X
-   </details>
-3. <details>
-   <summary>What's the maximum position on chromosome X?</summary>
-
-    ## Answer: X
-   </details>
-4. <details>
-   <summary>Select the first genotypic dataset to export. How many germplasm groups are available?</summary>
-
-    ## Answer: X
-   </details>
-5. <details>
-   <summary>How many marker groups?</summary>
-
-    ## Answer: X
-   </details>
-6. <details>
-   <summary>Start the export process by selecting the "Flapjack" export format.</summary>
-
-    ## Answer: X
-   </details>
+1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
+2. <details><summary>How big is the largest map?</summary>Answer: X</details>
+3. <details><summary>What's the maximum position on chromosome X?</summary>Answer: X</details>
+4. <details><summary>Select the first genotypic dataset to export. How many germplasm groups are available?</summary>Answer: X</details>
+5. <details><summary>How many marker groups?</summary>Answer: X</details>
+6. <details><summary>Start the export process by selecting the "Flapjack" export format.</summary>Answer: X</details>
