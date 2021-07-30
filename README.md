@@ -1,1 +1,1 @@
-# germinate-training
+# Germinate Training
