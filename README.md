@@ -1,3 +1,3 @@
 # Germinate Training
 
-Please visit germinateplatform.github.io/germinate-training
+Please visit https://germinateplatform.github.io/germinate-training
