@@ -1,3 +1,7 @@
+---
+title: Germinate Training
+---
+
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
   <img src="img/germinate-square-name.svg" width="300" alt="Crop Trust">
