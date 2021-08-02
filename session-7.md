@@ -41,7 +41,7 @@ Groupings of markers can be created by filtering the table or selection within t
 
 To export genotypic data, select a single or multiple datasets from the table on the genotypic export page.
 
-<img src="session-7/img/genotypes-export-pagedataset-table.png" width="700" alt="Genotypic export dataset selection">
+<img src="session-7/img/genotypes-export-dataset-table.png" width="700" alt="Genotypic export dataset selection">
 
 On the following page, data can either be exported as a whole dataset or by sub-setting using groups or marked items covered in an earlier tutorial. Next, a map is chosen from the dropdown menu. Germinate supports multiple export formats for genotypic data. By default, the export will always include a flat tab-delimited file and optionally the same data in Flapjack or Hapmap format.
 
