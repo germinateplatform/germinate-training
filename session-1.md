@@ -11,6 +11,8 @@ https://youtu.be/w8CWSS2Whh4?list=PLJw_zFdFontD_niaaPfNYLbIO_aSZmghR
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=w8CWSS2Whh4 "")
 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+
 Why use Germinate? 
 
 Germinate allows you to manage data from your collections in a standard and FAIR way. It allows you to explore and make your data available to collaborators via intuitive web-based interfaces. 
