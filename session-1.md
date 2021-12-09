@@ -6,7 +6,7 @@
 
 # Session 1: Getting Started and Introduction to Germinate
 
-[![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+[![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
 Why use Germinate? 
 
