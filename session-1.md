@@ -6,6 +6,10 @@
 
 # Session 1: Getting Started and Introduction to Germinate
 
+Welcome to Germinate.
+
+We have created a series of Germinate training sessions that can be used to get a handle on how to use Germinate and get hands on training on using the tools and features that Germinate offers. We will use a number of different Germinate instances throughout this training to highlight concepts and it is incredibly important to stress that where training invovles adding or editing data that you cannot break anything by undertaking this training - just go for it, try things, and see how Germinate works!
+
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
 Why use Germinate? 
