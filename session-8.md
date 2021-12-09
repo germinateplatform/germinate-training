@@ -19,69 +19,25 @@
   </tbody>
 </table>
 
-# Session 8: Phenotypic data
+# Session 8: Geographic Data
 
-This tutorial will show you how to explore, visualize and export phenotypic trials data.
+f you ever find yourself searching for a germplasm, a marker, a trait, or a location but you don’t know the exact name, then the Germinate-wide search is where you’ll find it. Simply type in a name-fragment into the search box at the top of the page and hit enter. The search page will open and let you define what you’re looking for. You can either search all data types or for any type individually. 
 
-## Traits
+A click on the button starts the search and the results will be grouped into data type specific tables. So, if you’re searching for a location name, you will see germplasm collected at this location as well as trials conducted at a location. Searching for a germplasm identifier will show the germplasm passport data as well as all trials and compound data recorded for this germplasm. 
 
-<img src="session-8/img/traits-page.png" width="200" alt="Traits page menu item">
+ 
 
-The traits page shows all traits that have been scored across all trials within Germinate, their data types, synonyms, units and how many individual data points have been recorded.
+Tasks: 
 
-<img src="session-8/img/traits-table.png" width="700" alt="Traits table">
+Looking at the traits page, how many traits are in this Germinate database? 
 
-Selecting a trait opens the trait details page with all values for this trait in a table. As with all other tables, this one can be sorted and filtered, allowing you to search for things like which germplasm has the highest or lowest value or you can search for germplasm within specific ranges.
+Sorting by the data points column, which trait has the most data points and how many? 
 
-<img src="session-8/img/traits-details-table.png" width="700" alt="Trait details table">
+Select trait X (categorical), which value appears most often? 
 
-Below the table, a chart shows the distribution of values for this trait. In case of numeric traits, a boxplot will highlight the quartiles and for a categorical trait, a histogram is displayed.
+Navigate to the trials export page and select the first two datasets. Using the overview statistics, which dataset has the higher average trait X? 
 
-<img src="session-8/img/traits-details-chart.png" width="700" alt="Traits details statistics chart">
-
-## Trial export
-
-Comparing trials in different locations or across years as well as comparing traits to identify correlations and outliers can provide detailed insight into the data. The trials export page has a variety of visualization and query interfaces to explore trials data.
-
-<img src="session-8/img/traits-export-page.png" width="200" alt="Traits export page menu item">
-
-Select one or multiple trials from the datasets table to continue.
-
-<img src="session-8/img/traits-datasets.png" width="700" alt="Trials dataset selection">
-
-Trials information is broken down into sections. Each one offers a different perspective onto the data and various ways of sub-selecting germplasm and traits as well as different colouring options.
-
-<img src="session-8/img/trials-export-tabs.png" width="700" alt="Trials export tabs">
-
-The overview statistics show overall characteristics of the data within the selected datasets. Select the traits you want to see and optionally some germplasm groups. The resulting chart shows a box plot per trait and dataset highlighting the spread within a trait as well as the differences between seleccted datasets. If the datasets are from different locations/sites or years, this chart is an ideal way to compare these scenarios.
-
-<img src="session-8/img/trials-export-overview-boxplot.png" width="700" alt="Overview boxplot">
-
-In the data matrix section, traits are plotted against each other to highlight patterns in the data like correlations and outliers. The traits that should be plotted are selected from the list. Optionally, a sub-selection of germplasm can be made to limit the visualization to only germplasm from these subsets. The resulting visualization is a matrix of scatter plots, each showing the combination of two traits. Each data point represents a germplasm scored for those two traits within the trial. Data can be coloured by things like treatment, recording date, or marked germplasm to further highlight the differences in the data.
-
-<img src="session-8/img/trials-export-scatter-matrix.png" width="700" alt="Trials data scatter matrix coloured by treatment">
-
-If only two traits are selected, a more detailed scatter plot is displayed showing 
-data distributions along both axes.
-
-<img src="session-8/img/trials-export-scatter-plot.png" width="700" alt="Trials data scatter plot coloured by treatment">
-
-The comparison section will plot a small subset of germplasm side by side for a selection of traits to emphasize the germplasm performance compared to others. It will show a box plot of all values of a single germplasm compared to boxplots of the other germplasm.
-
-<img src="session-8/img/trials-export-germplasm-comparison.png" width="700" alt="Trials data germplasm comparison">
-
-The data table presents a different perspective onto the data and offers all the table filtering and sorting functionalities already seen in previous tutorials. Searching for the data of a specific germplasm or finding germplasm within a yield range or above a certain height are easily achieved.
-
-<img src="session-8/img/trials-export-table.png" width="700" alt="Trials data table">
+Download the data using the last tab. Using Flapjack’s data loading dialog, load the trait data into Flapjack along with the genotypic data from the previous tutorial. 
 
 
-The final tab is where data can be downloaded in tab-delimited format. This format allows easy import into tools like Flapjack, Excel, and R. Combining this phenotypic data with the genotypic data in Flapjack.
 
-
-## Tasks
-
-1. <details><summary>Looking at the traits page, how many traits are in this Germinate database?</summary>Answer: X</details>
-2. <details><summary>Sorting by the data points column, which trait has the most data points and how many?</summary>Answer: X</details>
-3. <details><summary>Select trait X (categorical), which value appears most often?</summary>Answer: X</details>
-4. <details><summary>Navigate to the trials export page and select the first two datasets. Using the overview statistics, which dataset has the higher average trait X?</summary>Answer: X</details>
-5. <details><summary>Download the data using the last tab. Using Flapjack’s data loading dialog, load the trait data into Flapjack along with the genotypic data from the previous tutorial.</summary>Answer: X</details>
