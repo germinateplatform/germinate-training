@@ -14,6 +14,10 @@ We have broken down each training session into distinct sections. Most will star
 
 So lets get started!
 
+##Important Germinate Links
+For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/
+
+
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
 Why use Germinate? 
@@ -79,4 +83,7 @@ Your details will then be passed to the Germinate administrator for your databas
 ## Tasks:
 
 1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
+
+###Standard Footer
+This training has been created under the Templeton World Charity Foundataion/The Crop Trust funded project XXXX. This training is free to use and released under a non-restrictive open source licence. There have been a number of people invovled in the creation of this material including Sebastian Raubach (Information and Computational Sciences, The James Hutton Institite, Malcolm Macaulay (Cell and Molecular Sciences, the James Hutton Institute) and Paul Shaw (Information and Computational Sciences, The James Hutton Institute). Please contact us on germinate@hutton.ac.u with any feedback or questions.
 
