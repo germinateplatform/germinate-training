@@ -24,6 +24,6 @@ title: Germinate Training
 </table>
 
 # Germinate training material
-
+- <a href="session-1.html">Session 1: Introduction to Germinate</a>
 - <a href="session-7.html">Session 7: Genotypic data</a>
 - <a href="session-8.html">Session 8: Phenotypic data</a>
