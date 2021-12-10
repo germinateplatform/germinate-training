@@ -14,7 +14,7 @@ We have broken down each training session into distinct sections. Most will star
 
 So lets get started!
 
-##Important Germinate Links
+## Important Germinate Links
 For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/
 
 
