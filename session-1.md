@@ -84,6 +84,6 @@ Your details will then be passed to the Germinate administrator for your databas
 
 1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
 
-###Standard Footer
-This training has been created under the Templeton World Charity Foundataion/The Crop Trust funded project XXXX. This training is free to use and released under a non-restrictive open source licence. There have been a number of people invovled in the creation of this material including Sebastian Raubach (Information and Computational Sciences, The James Hutton Institite, Malcolm Macaulay (Cell and Molecular Sciences, the James Hutton Institute) and Paul Shaw (Information and Computational Sciences, The James Hutton Institute). Please contact us on germinate@hutton.ac.u with any feedback or questions.
+### Standard Footer
+This training has been created under the Templeton World Charity Foundataion/The Crop Trust funded project XXXX. This training is free to use and released under a non-restrictive open source licence. There have been a number of people invovled in the creation of this material including Sebastian Raubach (Information and Computational Sciences, The James Hutton Institite, Malcolm Macaulay (Cell and Molecular Sciences, the James Hutton Institute) and Paul Shaw (Information and Computational Sciences, The James Hutton Institute). Please contact us on germinate@hutton.ac.uk with any feedback or questions.
 
