@@ -20,6 +20,8 @@ For all information on Germinate take a look at https://germinateplatform.github
 
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
+<a href="https://www.youtube.com/watch?v=w8CWSS2Whh4"><img src="https://img.youtube.com/vi/w8CWSS2Whh4/0.jpg" width="200"></a>
+
 Why use Germinate? 
 
 Germinate allows you to manage data from your collections in a standard and FAIR way. It allows you to explore and make your data available to collaborators via intuitive web-based interfaces. 
