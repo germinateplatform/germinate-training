@@ -81,6 +81,7 @@ Passwords should be unguessable. There is an indicator below the password field 
 Your details will then be passed to the Germinate administrator for your database who can approve user accounts. If you lose your password, don’t worry as we can reset that by clicking here – a link which allows you to reset your password will then be sent to the email address you used to register on the system – follow this link to create a new password then log in as normal to the system. 
 
 ## Tasks:
+#### Click on the questions to reveal the answers.
 
 1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
 
