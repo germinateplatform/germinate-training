@@ -8,11 +8,15 @@
 
 Welcome to Germinate.
 
-We have created a series of Germinate training sessions that can be used to get a handle on how to use Germinate and get hands on training on using the tools and features that Germinate offers. We will use a number of different Germinate instances throughout this training to highlight concepts and it is incredibly important to stress that where training invovles adding or editing data that you cannot break anything by undertaking this training - just go for it, try things, and see how Germinate works!
+We have created a series of Germinate training sessions that can be used to get a handle on how to use Germinate and get hands on training on using the tools and features that Germinate offers. We will use a number of different Germinate instances (databases) throughout this training to highlight concepts. It is incredibly important to stress that where training invovles adding or editing data that **you cannot break anything** by undertaking this training - just go for it, try things, and see how Germinate works!
 
 We have broken down each training session into distinct sections. Most will start with a description of what the session will contain, some will have YouTube videos that explain and demonstrate the concepts we want to convey, some will have have additional information then a series of tasks and answers that will let you get experience in using Germinate using real data.
 
-So lets get started!
+In each section where there are example files that we are using then we will link to these so you can download to your computer.
+
+This training has been designed for you to carry out at your own pace. Each section is self contained and while we recommend that you carry each out in series, you can do this training at your own pace and come back to sections if you are unsure or just want to try the user excersises again at the end of each section.
+
+#### So lets get started!
 
 ## Important Germinate Links
 For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/
