@@ -19,7 +19,9 @@ This training has been designed for you to carry out at your own pace. Each sect
 #### So lets get started!
 
 ## Important Germinate Links
-For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/
+For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/ which will give you an overview of the project as well as links to where you can access the different publicly available Germinate databases we have and how to access the code that underpins Germinate if you want to contribute to the project.
+
+If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to germinate@hutton.ac.uk where you will get a response from either Paul Shaw or Sebastian Raubach at the James Hutton Institute. You can also log bugs and feature requests on our Github page https://github.com/germinateplatform
 
 
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
