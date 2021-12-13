@@ -21,9 +21,26 @@ For all information on Germinate take a look at https://germinateplatform.github
 
 If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to germinate@hutton.ac.uk. You can also log bugs and feature requests on our Github page https://github.com/germinateplatform
 
+There are two main Germinate publications that are well worth reading and will give you a bit of background to the project.
+
+Shaw, P.D., Raubach, S., Hearne, S.J., Dreher, K., Bryan, G., McKenzie, G., Milne, I., Stephen, G. and Marshall, D.F. (2017), Germinate 3: Development of a Common Platform to Support the Distribution of Experimental Data on Crop Wild Relatives. Crop Science, 57: 1259-1273. https://doi.org/10.2135/cropsci2016.09.0814
+
+Raubach, S, Kilian, B, Dreher, K, et al. From bits to bites: Advancement of the Germinate platform to support genetic resources collections and prebreeding informatics for crop wild relatives. Crop Science. 2021; 61: 1538– 1566. https://doi.org/10.1002/csc2.20248
+
 ### So lets get started!
 
+## Introduction to Germinate
+
 #### Why use Germinate? 
+
+
+
+
+
+
+
+
+
 
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
