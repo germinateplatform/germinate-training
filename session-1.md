@@ -6,7 +6,7 @@
 
 # Session 1: Getting Started and Introduction to Germinate
 
-Welcome to Germinate.
+## Welcome to Germinate.
 
 We have created a series of Germinate training sessions that can be used to get a handle on how to use Germinate and get hands on training on using the tools and features that Germinate offers. We will use a number of different Germinate instances (databases) throughout this training to highlight concepts. It is incredibly important to stress that where training invovles adding or editing data that **you cannot break anything** by undertaking this training - just go for it, try things, and see how Germinate works!
 
@@ -16,19 +16,20 @@ In each section where there are example files that we are using then we will lin
 
 This training has been designed for you to carry out at your own pace. Each section is self contained and while we recommend that you carry each out in series, you can do this training at your own pace and come back to sections if you are unsure or just want to try the user excersises again at the end of each section.
 
-#### So lets get started!
-
 ## Important Germinate Links
 For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/ which will give you an overview of the project as well as links to where you can access the different publicly available Germinate databases we have and how to access the code that underpins Germinate if you want to contribute to the project.
 
-If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to germinate@hutton.ac.uk where you will get a response from either Paul Shaw or Sebastian Raubach at the James Hutton Institute. You can also log bugs and feature requests on our Github page https://github.com/germinateplatform
+If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to germinate@hutton.ac.uk. You can also log bugs and feature requests on our Github page https://github.com/germinateplatform
 
+### So lets get started!
+
+#### Why use Germinate? 
 
 [![Watch the video](https://img.youtube.com/vi/w8CWSS2Whh4/default.jpg)](https://youtu.be/w8CWSS2Whh4)
 
 <a href="https://www.youtube.com/watch?v=w8CWSS2Whh4"><img src="https://img.youtube.com/vi/w8CWSS2Whh4/0.jpg" width="200"></a>
 
-Why use Germinate? 
+
 
 Germinate allows you to manage data from your collections in a standard and FAIR way. It allows you to explore and make your data available to collaborators via intuitive web-based interfaces. 
 
