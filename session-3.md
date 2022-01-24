@@ -28,7 +28,7 @@ Refer back to help if you are having problems but we are also there to help you 
 
 We will use the Germinate demo database in this instance. The demo database contains real data but we have anonomised it and assigned a fictional plant species, the <a href="https://en.wikipedia.org/wiki/Cactuar">Cactaur</a>. We have done this because all projects are different and Germinate supports more data types than projects generally contain. The demo database has all data types we support along with all features available to users to try out in a safe environment.
 
-**Rememeber you can't break anything use the Germinate Demo database to play about with features.**
+***Rememeber you can't break anything use the Germinate Demo database to play about with features.***
 
 Firstly we are going to visit this link: <a href="https://ics.hutton.ac.uk/germinate-demo">https://ics.hutton.ac.uk/germinate-demo then once there click on the "Data" menu item on the left hand menu then on the "Germplasm" menu item.
 
@@ -64,48 +64,43 @@ All tables within Germinate can be sorted or filtered by any of the columns you 
 
 
 
-Filtering is a very useful tool when searching for specific data points. In this example, we are looking at the germplasm table. The filtering dialog is opened by clicking the filter button in the top left of the table. Here, search criteria for each column can be defined and combined allowing simple searches as well as complex queries. To search for germplasm with a certain species, select the species column from the dropdown and then enter the species. This filter can be combined with a search for germplasm from a specific country resulting in only germplasm with the combination of species and country of origin to be displayed in the resulting table. 
+Filtering is a very useful tool when searching for specific data points. In this example, we are looking at the germplasm table. The filtering dialog is opened by clicking the filter button in the top left of the table. 
 
 <img src="session-3/germplasm6.png">
 
-The germplasm table also has a section with common filtering options for easier access just above the table. 
+Here, search criteria for each column can be defined and combined allowing simple searches as well as complex queries. To search for germplasm whose name matches a specific text pattern select the ***Germplasm name*** column from the dropdown and then enter the text you want to search for/. Be sure to change the match type from ***Equal*** to contains then enter the following into the search box.
+
+>cactuar-9%
+
+Now the ***%*** might appear confusing buy the ***%*** sign is the standard wildcard for SQL (database) queries and means that the query will look for everthing starting with ***cactuar-9*** then anything after it. It can be thought of like the * character in the Windows operating system.
 
 <img src="session-3/germplasm7.png">
 
+This filter can be combined with a search for germplasm from a specific country resulting in only germplasm with the combination of species and country of origin to be displayed in the resulting table. This example shows us building up a layered query by including only germplasm with the pattern ***cactuar-9%*** from ***Country*** that is equal to ***Brazil*** and finally only those matches where the collection site for the accession was ***greater than 500m***. 
 
 <img src="session-3/germplasm8.png">
 
+Now press ***OK*** and the database returns 4 records that match these criteria.
+
 <img src="session-3/germplasm9.png">
 
-<img src="session-3/germplasm10.png">
-
-Accessions Plants/Plots and Samples 
-
-Germplasm in Germinate is stored at different levels: ‘Accession’, ‘Plant/Plot’ and ‘Sample’ called ‘entity types’. Plant/plot level material is usually derived from accession germplasm and samples can be taken from either plant/plot or accession level. 
-
-What data is available 
-
-The germplasm table has dedicated columns that indicate the types of data available for a germplasm. This is shown by the corresponding icon in each column. The same applies to images where an icon will be shown if images are available and clicking on that icon will show one of the images as an example. 
-
-Adding things to marked lists 
-
-Browsing and filtering tables is usually done to look for germplasm, markers or locations. Once these are found they can be added to a personalised ‘marked list’ akin to a shopping basket. Simply add items to the basket by marking the checkbox in the last column either individually or for the whole table using the column header. 
-
-Passport page 
+If we click on the ***Germplasm name*** we get a page that shows all the information we know about that particular entry. We will cover this in more detail later in this training but have a look and see what types of data Germinate holds for entry ***CACTUAR-914***.
 
 The passport page of a germplasm is where all information available for this germplasm is aggregated in a single location. Meta-data, pedigrees, location information, images, and data availability are all easily accessible from here. 
 
-Links along the top 
+<img src="session-3/germplasm10.png">
 
-Mark or unmark germplasm 
+## Accessions Plants/Plots and Samples 
 
- 
+Germplasm in Germinate is stored at different levels: ‘Accession’, ‘Plant/Plot’ and ‘Sample’ called ‘entity types’. Plant/plot level material is usually derived from accession germplasm and samples can be taken from either plant/plot or accession level. This level of information can be seen in the main germplasm table by making sure you have the ***Entity type*** column turned on. We will look at this in more detail when we look at exporting data from Germinate.
 
-Tasks: 
 
-Go to the germplasm page. Try hiding/showing some columns. 
 
-Using the table filtering, search for germplasm collected in country X. 
+
+
+
+
+
 
 With the table filtering active, sort the table by collection date in ascending order. What is the first germplasm in the table? 
 
@@ -115,5 +110,10 @@ Navigate to the passport page of X, what is Y?
 
 ## Tasks:
 
-1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
+1. <details><summary>Go to the main Germplasm list page and try showing and hiding columns.</summary>You can navigate to the page by clicking <a href="https://ics.hutton.ac.uk/germinate-demo/#/data/germplasm">here</a> then selecting table options from the top left hand side of the germplasm table.</details>
 
+2. <details><summary>Using the germplasm table filtering, search for germplasm collected in Morocco.</summary>If you want to try using the wildcard <strong>%</strong> try changing the search from <strong>Equal</strong> to <strong>Contains</strong> and your search term to mo<strong>%</strong>. Do you get the same results? Why are there other results in the search now?</details>
+
+3. <details><summary>With the table filtering active, sort the table by collection date in ascending order. What is the first germplasm in the table?</summary></details> 
+
+4. <details><summary>Navigate to the passport page for the line whose country of collection is <strong>Kenya</strong> where the collection site is above <strong>1500m</strong> and the accesion biological status is equal to <strong>Natural</strong>. What datasets does this line appear in?</summary>There are 3 datasets that this line appears in. Datasets "Sample Phenotype Data",  "Sample Compound Data" and "Sample Genotype Data Subset 2."</details>
