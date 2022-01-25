@@ -14,6 +14,16 @@ Ok lets start by watching this short video on the Germinate interface.
 
 <a href="https://www.youtube.com/watch?v=tSKTpiOItyE"><img src="https://img.youtube.com/vi/tSKTpiOItyE/0.jpg" width="25%"></a>
 
+## Navigation
+Most navigation between pages will be done using the menu on the left hand side of the Germinate interface. It looks like this.
+
+<img src="session-2/settings_bar5.png" width="20%">
+
+Where there are arrows "<" (as seen here next to ***Data*** ) this means that if you click on this menu item additional menu items will be displayed. If we click on ***Data*** we see this.
+
+<img src="session-2/settings_bar6.png" width="20%">
+
+Again, arrows show where additional menu levels can be selected and numbers in dark boxes show the count of items within a category. So for example in this case there are 7 ***Datasets***, 5 ***Experiments*** and 1 ***Data resources***
 
 ### Searching
 

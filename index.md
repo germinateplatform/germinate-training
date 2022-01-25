@@ -24,7 +24,16 @@ title: Germinate Training
 </table>
 
 # Germinate training material
+
+The following material has been developed to allow you to get some experience in using Germinate. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
+
+This training material was made possible through funding from the Templeton World Charity Foundation, Inc. Grant ID TWCF0400 'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'. 
+
 - <a href="session-1.html">Session 1: Introduction to Germinate</a>
 - <a href="session-2.html">Session 2: The Germinate Web Interface</a>
+- <a href="session-3.html">Session 3: Working with Germplasm</a>
+- <a href="session-4.html">Session 4: Experiments, Datasets and other Data Resources</a>
+- <a href="session-5.html">Session 5: Working with Groups</a>
+- <a href="session-6.html">Session 6: Genotypic data</a>
 - <a href="session-7.html">Session 7: Genotypic data</a>
 - <a href="session-8.html">Session 8: Phenotypic data</a>
