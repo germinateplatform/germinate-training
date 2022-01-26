@@ -26,7 +26,27 @@ Experiments group together coherent datasets into meaningful combinations. This 
 
 Sometimes there is data that cannot be stored in Germinate directly. In those cases, the data can still be uploaded in any format and made available as direct downloads. This means that all your data is still available in a single location. 
 
+<img src="session-4/4_2.png">
+<img src="session-4/4_3.png">
+<img src="session-4/4_4.png">
+<img src="session-4/4_5.png">
+<img src="session-4/4_6.png">
+<img src="session-4/4_7.png">
+<img src="session-4/4_8.png">
+<img src="session-4/4_9.png">
+<img src="session-4/4_10.png">
+<img src="session-4/4_11.png">
 
+
+The final dataset visualization that we will show here is the comparison tool which allows us to compare lines within a line group to be compared using boxplots. Boxplots allow us to visualize the spread of data. Single phenotypes can be selected then the charts redrawn. This tools is very effective in looking across germplasm within a group looking for lines with high or low values as well as identifying lines where data may be inaccurate or have unusual outliers (very high or very low values).
+<img src="session-4/4_12.png">
+The charts are interactive so if you hover over a boxplot the charts will show the maximum value, median value and minimum value along with the first and third quartile values. Our boxplot visualization can also be exported into bitmap or vevctor based formats for use in presentations or publicataions as well as tools to allow colours to be changed and allowing users to download the underlying data used to generate the chart.
+
+<img src="session-4/4_13.png" width="35%">
+
+Additional information on how to interpret boxplots can be <a href="https://en.wikipedia.org/wiki/Box_plot">found here</a>. Have a play about with the boxplot feature and explore the options that it gives you in providing an overview of a trait held in the database.
+
+Finally, all data from datasets can be exported in text format. We offer an interface that allows users to select 
 
 
 
