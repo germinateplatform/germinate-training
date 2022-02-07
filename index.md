@@ -37,3 +37,12 @@ This training material was made possible through funding from the Templeton Worl
 - <a href="session-6.html">Session 6: Genotypic data</a>
 - <a href="session-7.html">Session 7: Genotypic data</a>
 - <a href="session-8.html">Session 8: Phenotypic data</a>
+
+Flapjack training Draft
+
+- <a href="flapjack-1.html">Session 1: Getting Started and Introduction to Flapjack</a>
+- <a href="flapjack-2.html">Session 2: Flapjack basic operation</a>
+- <a href="flapjack-3.html">Session 3: Flapjack input files</a>
+- <a href="flapjack-4.html">Session 4: Flapjack import and navigating</a>
+- <a href="flapjack-5.html">Session 5: Flapjack data views and visualization options</a>
+- <a href="flapjack-6.html">Session 6: Flapjack similarity matrix, dendrogram and PCoA</a>
