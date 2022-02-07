@@ -29,3 +29,6 @@ Sort the germplasm groups by their size, how many germplasm are in the largest g
 
 1. <details><summary>Identify the maps page. How many maps are there?</summary>Answer: X</details>
 
+> ### About
+> This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.
+

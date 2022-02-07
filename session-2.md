@@ -64,3 +64,6 @@ This short tutorial has highlighted some of the cool features that Germinate off
 1. To start off click on **this link** and enter your username and password that we set up in Session 1. You should be logged into Germinate. If you have forgotten your password request a new password from the Germinate interface.
 
 2. Once you are logged in have a look around and see if you can spot where things like search are found
+
+> ### About
+> This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.

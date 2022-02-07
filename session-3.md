@@ -117,3 +117,6 @@ Navigate to the passport page of X, what is Y?
 3. <details><summary>With the table filtering active, sort the table by collection date in ascending order. What is the first germplasm in the table?</summary></details> 
 
 4. <details><summary>Navigate to the passport page for the line whose country of collection is <strong>Kenya</strong> where the collection site is above <strong>1500m</strong> and the accesion biological status is equal to <strong>Natural</strong>. What datasets does this line appear in?</summary>There are 3 datasets that this line appears in. Datasets "Sample Phenotype Data",  "Sample Compound Data" and "Sample Genotype Data Subset 2."</details>
+
+> ### About
+> This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.

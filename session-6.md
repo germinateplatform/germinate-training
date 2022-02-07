@@ -84,3 +84,6 @@ Genotypic data is exported asynchronously meaning you can keep using Germinate w
 4. <details><summary>Select the first genotypic dataset to export. How many germplasm groups are available?</summary>Answer: X</details>
 5. <details><summary>How many marker groups?</summary>Answer: X</details>
 6. <details><summary>Start the export process by selecting the "Flapjack" export format.</summary>Answer: X</details>
+
+> ### About
+> This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.
