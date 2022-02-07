@@ -110,19 +110,3 @@ Your details will then be passed to the Germinate administrator for your databas
 
 > ### About
 > This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.
-
-<table bgcolor="white">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
