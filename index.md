@@ -4,7 +4,7 @@ title: Germinate Training
 
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/germinate-square-name.svg" width="300" alt="Crop Trust">
+  <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
 <table bgcolor="white">
@@ -35,8 +35,8 @@ This training material was made possible through funding from the Templeton Worl
 - <a href="session-4.html">Session 4: Experiments, Datasets and other Data Resources</a>
 - <a href="session-5.html">Session 5: Working with Groups</a>
 - <a href="session-6.html">Session 6: Genotypic data</a>
-- <a href="session-7.html">Session 7: Genotypic data</a>
-- <a href="session-8.html">Session 8: Phenotypic data</a>
+- <a href="session-7.html">Session 7: Phenotypic data</a>
+- <a href="session-8.html">Session 8: Geographic data</a>
 
 Flapjack training Draft
 

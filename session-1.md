@@ -1,6 +1,6 @@
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/germinate-square-name.svg" width="300" alt="Crop Trust">
+  <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
 
@@ -23,18 +23,18 @@ If you have any questions about Germinate or just want to chat through the benef
 
 There are two main Germinate publications that are well worth reading and will give you a bit of background to the project.
 
-> Shaw, P.D., Raubach, S., Hearne, S.J., Dreher, K., Bryan, G., McKenzie, G., Milne, I., Stephen, G. and Marshall, D.F. (2017), Germinate 3: Development of a Common Platform to Support the Distribution of Experimental Data on Crop Wild Relatives. Crop Science, 57: 1259-1273. https://doi.org/10.2135/cropsci2016.09.0814
-
 > Raubach, S, Kilian, B, Dreher, K, et al. From bits to bites: Advancement of the Germinate platform to support genetic resources collections and prebreeding informatics for crop wild relatives. Crop Science. 2021; 61: 1538– 1566. https://doi.org/10.1002/csc2.20248
 
-### So lets get started!
+> Shaw, P.D., Raubach, S., Hearne, S.J., Dreher, K., Bryan, G., McKenzie, G., Milne, I., Stephen, G. and Marshall, D.F. (2017), Germinate 3: Development of a Common Platform to Support the Distribution of Experimental Data on Crop Wild Relatives. Crop Science, 57: 1259-1273. https://doi.org/10.2135/cropsci2016.09.0814
+
+**So lets get started!**
 
 ## Introduction to Germinate
 
-#### Why use Germinate? 
+### Why use Germinate? 
 It's often difficult trying to get a handle on large datasets and what they contain. The complexity and volumes of data are challenging to visualize so tools which help researchers do this are important in trying to get the most out of our data. Traditionally we may have used tools such as a spreadsheet to try and work with data, which is fine, but had its limitations. With datasets getting larger and larger we need tools that can efficiently handle these volumes of data and allow us to explore and interact with it. This is just not possible with spreadsheets.
 
-This is where Germinate can help. Germinate allows you to manage data from your collections in a standard and <a href="https://www.go-fair.org/fair-principles/">FAIR way</a>. It allows you to explore and make your data available to collaborators via intuitive web-based interfaces. It provides tools to export your data in standard formats and tools to maintain datasets used in analysis. This is critical in ensuring reproducability of data analysis and openess.
+This is where Germinate can help. Germinate allows you to manage data from your collections in a standard and [FAIR way](https://www.go-fair.org/fair-principles/). It allows you to explore and make your data available to collaborators via intuitive web-based interfaces. It provides tools to export your data in standard formats and tools to maintain datasets used in analysis. This is critical in ensuring reproducability of data analysis and openess.
 
 > Germinate provides a single point of access for all background data on genetic resources collections and is therefore a valuable digital curation resource as well as offering essential continuity on how new data is recorded, archived, and made available to collaborators and communities. 
 
@@ -50,11 +50,11 @@ From originally only storing a few markers and germplasm entries we now have dat
 
 We are also keen to get feedback and hear from users on how we can improve the platform. Originaly Germinate was created to meet the needs of barley and potato work being carried out in Scotland but has now expanded to cover 25 different crops from around the world. 
 
-> <a href="https://germinateplatform.github.io/get-germinate/#databases">To see all the publicaly available Germinate databases click here</a>
+> [To see all the publicaly available Germinate databases click here](https://germinateplatform.github.io/get-germinate/#databases)
 
 ### Does Germinate support standards? 
 
-Germinate is fully compliant with the <a href="https://www.bioversityinternational.org/e-library/publications/detail/faobioversity-multi-crop-passport-descriptors-v21-mcpd-v21/">Multi‐Crop Passport Descriptors</a> developed by the FAO and we are developing support for data initiatives such as MIAPPE and Dublin Core. Germinate aims and supports making data available using FAIR principles and we are working to include data object identifier (DOI) features and tools for datasets and germplasm. 
+Germinate is fully compliant with the [Multi‐Crop Passport Descriptors](https://www.bioversityinternational.org/e-library/publications/detail/faobioversity-multi-crop-passport-descriptors-v21-mcpd-v21/) developed by the FAO, the [Dublin Core](https://www.dublincore.org/) and we are developing support for data initiatives such as MIAPPE. Germinate aims and supports making data available using FAIR principles and we are working to include data object identifier (DOI) features and tools for datasets and germplasm. 
 
 ### Once my data is in Germinate how do I get it out? 
 
@@ -64,17 +64,17 @@ Germinate offers different formats to download your data from plain text format 
 
 For this training you don't need to install anything, we have you covered!
 
-If you do however want to have a go you can download Germinate from our <a href="https://github.com/germinateplatform/germinate-vue">GitHub repository</a> or using a handy Docker image to get up and running quickly. You can even use it on your Raspberry Pi! 
+If you do however want to have a go you can download Germinate from our [GitHub repository](https://github.com/germinateplatform/germinate-vue) or using a handy Docker image to get up and running quickly. You can even use it on your Raspberry Pi! 
 
-If you just want to have a quick play about with the interface you can use one of the <a href="https://germinateplatform.github.io/get-germinate/#databases">publicly available databases</a> or our <a href="https://ics.hutton.ac.uk/germinate-demo/#/">demo database</a> which has examples of all data types using real, but anonomised data and a <a href="https://en.wikipedia.org/wiki/Cactuar">fictional plant species</a>. 
+If you just want to have a quick play about with the interface you can use one of the [publicly available databases](https://germinateplatform.github.io/get-germinate/#databases) or our [demo database](https://ics.hutton.ac.uk/germinate-demo/) which has examples of all data types using real, but anonomised data and a [fictional plant species](https://en.wikipedia.org/wiki/Cactuar). 
 
-### That’s great how can I get more information? 
+### That's great how can I get more information? 
 
 Contact us, please get in touch and we can give an extended demo or talk you through using Germinate with your data or how you can help be part of the Germinate community. Contact details are at the top of each of these training sections.
 
 ## Now watch this brief introductory video on Germinate
 
-<a href="https://www.youtube.com/watch?v=w8CWSS2Whh4"><img src="https://img.youtube.com/vi/w8CWSS2Whh4/0.jpg" width="25%"></a>
+<a href="https://www.youtube.com/watch?v=w8CWSS2Whh4"><img src="https://img.youtube.com/vi/w8CWSS2Whh4/0.jpg" height="400px"></a>
 
 ## Setting up a Germinate user account (where required)
 
@@ -84,16 +84,16 @@ While most Germinate databases are available to the public there may occasionall
 
 In order to achieve this, Germinate allows you to password protect your installation so that only **authenticated users** can log into the system. This can of course be changed later and all data made public and user authentication removed almost entirely - user accounts are still used by administrators to access special Germinate features for uploading data and cutomising the user interface. 
 
-So how do you access a Germinate database that has password protection. Firstly, you need to navigate to your Germinate page then enter your username and password details then click here to sign in.  In this case <a href="">click here</a> to go to our demo database that we are using as part of this training. 
+So how do you access a Germinate database that has password protection. Firstly, you need to navigate to your Germinate page then enter your username and password details then click here to sign in. In this case <a href="">click here</a> to go to our demo database that we are using as part of this training. 
 
-If you don’t have a username and password, you can click on the "Register" button to register. Each Germinate installation may have specific terms and conditions that you need to agree to before you can get access to the data. Click to accept these terms and conditions then click next. If you already have another Germinate account that makes things bit simpler – all we need is your email and password. If not then you need to fill in your personal details then click register. 
+If you don't have a username and password, you can click on the "Register" button to register. Each Germinate installation may have specific terms and conditions that you need to agree to before you can get access to the data. Click to accept these terms and conditions then click next. If you already have another Germinate account that makes things bit simpler – all we need is your email and password. If not then you need to fill in your personal details then click register. 
 
 > Germinate privacy policy means that we do not provide any of your details to third parties. We only use your email address to send you password reminders and nothing else.
 
 > Passwords should meet these minimum criteria:  
   Passwords should be unguessable. There is an indicator below the password field showing how strong your password is. Try and make your password as strong as possible, choose a few words joined together such as a short phrase that is easy to remember but difficult to guess.
 
-Your details will then be passed to the Germinate administrator for your database who can approve user accounts, in some instances this may take a few hoursif accounts are manually checked but for this training we will approve your account now. If you lose your password, don’t worry as we can reset that by clicking on the "forgot password?" link from the Germinate front page – a link which allows you to reset your password will then be sent to the email address you used to register on the system – follow this link to create a new password then log in as normal to the system. 
+Your details will then be passed to the Germinate administrator for your database who can approve user accounts, in some instances this may take a few hoursif accounts are manually checked but for this training we will approve your account now. If you lose your password, don't worry as we can reset that by clicking on the "forgot password?" link from the Germinate front page – a link which allows you to reset your password will then be sent to the email address you used to register on the system – follow this link to create a new password then log in as normal to the system. 
 
 > We cannot tell you what your password is, we just don't know as we only store a hashed version of it. If you loose your password use the Germinate interfaces "forgot password?" link to create a new secture password for your account.
 
@@ -109,4 +109,4 @@ Your details will then be passed to the Germinate administrator for your databas
 <br/>
 
 > ### About
-> This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.
+> This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.

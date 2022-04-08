@@ -19,16 +19,22 @@ Flapjack is available on Windows (64 bit), MacOS and if you prefer using the com
 In this tutorial, we will use the Windows (64 bit) version as an example
 Follow the instructions provided by the graphical installer to install Flapjack. Note that Flapjack should not require administrator privileges to install or run.
 
-<img src="flapjack-2/flapjack2.png" width="60%">
-<img src="flapjack-2/flapjack3.png" width="60%">
-<img src="flapjack-2/flapjack4.png" width="60%">
-<img src="flapjack-2/flapjack5.png" width="60%">
-<img src="flapjack-2/flapjack6.png" width="60%">
-<img src="flapjack-2/flapjack7.png" width="60%">
+<img src="flapjack-2/flapjack2.png" style="max-width: 100%;">
+
+<img src="flapjack-2/flapjack3.png" style="max-width: 100%;">
+
+<img src="flapjack-2/flapjack4.png" style="max-width: 100%;">
+
+<img src="flapjack-2/flapjack5.png" style="max-width: 100%;">
+
+<img src="flapjack-2/flapjack6.png" style="max-width: 100%;">
+
+<img src="flapjack-2/flapjack7.png" style="max-width: 100%;">
+
 
 Now we have Flapjack installed, what does the user interface look like? Open the Flapjack program and you will be preseted with the following screen.
 
-<img src="flapjack-2/flapjack8.png" width="100%">
+<img src="flapjack-2/flapjack8.png" style="max-width: 100%;">
 
 The welcome screen offers several options such as importing data, opening a previously accessed project, and learning more about Flapjack including links to the online Flapjack user manual and how to cite Flapjack in your own work.
 
