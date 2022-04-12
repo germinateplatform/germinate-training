@@ -3,7 +3,7 @@
 ## Welcome to Flapjack basic operation training.
 
 ### Session 2: Flapjack Basic Operation
-We have learned a bit of background in Session 1, now let’s have a look at downloading and familiarising ourselves with Flapjack. 
+We have learned a bit of background in Session 1, now let's have a look at downloading and familiarising ourselves with Flapjack. 
 
 This tutorial will guide you through how to download and open flapjack & also how to familiarise ourselves with the application.
 
@@ -40,7 +40,7 @@ The welcome screen offers several options such as importing data, opening a prev
 
 <a href="https://www.youtube.com/watch?v=nVh_V5TZ_38"><img src="https://img.youtube.com/vi/nVh_V5TZ_38/0.jpg" width="25%"></a>
 
-This tutorial has explained how to download Flapjack and we’ve had a quick look at the initial user interface. We are now ready to import our data and create a flapjack project so check out the next tutorial for project input file details.
+This tutorial has explained how to download Flapjack and we've had a quick look at the initial user interface. We are now ready to import our data and create a flapjack project so check out the next tutorial for project input file details.
 
 # Tasks
 

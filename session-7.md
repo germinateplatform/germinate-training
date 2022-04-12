@@ -84,7 +84,7 @@ The final tab is where data can be downloaded in tab-delimited format. This form
 2. <details><summary>Sorting by the data points column, which trait has the most data points and how many?</summary>Answer: X</details>
 3. <details><summary>Select trait X (categorical), which value appears most often?</summary>Answer: X</details>
 4. <details><summary>Navigate to the trials export page and select the first two datasets. Using the overview statistics, which dataset has the higher average trait X?</summary>Answer: X</details>
-5. <details><summary>Download the data using the last tab. Using Flapjack’s data loading dialog, load the trait data into Flapjack along with the genotypic data from the previous tutorial.</summary>Answer: X</details>
+5. <details><summary>Download the data using the last tab. Using Flapjack's data loading dialog, load the trait data into Flapjack along with the genotypic data from the previous tutorial.</summary>Answer: X</details>
 
 > ### About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.

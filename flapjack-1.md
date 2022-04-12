@@ -46,7 +46,7 @@ All results are saved in a Flapjack project format file and can also be exported
 ### How do I install Flapjack?
 Flapjack is available to download from the James Hutton Institute, Information and Computer Sciences web pages. https://ics.hutton.ac.uk/flapjack/download-flapjack/ 3 installers are available, Windows (64 bit), MacOS and if you prefer using the command line a Linux (64 bit) version exists. Full details are provided in an associated tutorial.
 
-### That’s great how can I get more information?
+### That's great how can I get more information?
 Contact us, please get in touch and we can give an extended demo or talk you through using Flapjack with your data or how you can help be part of the Germinate community. Contact details are at the top of each of these training sections.
 
 ### Now watch this brief introductory video on Flapjack
@@ -54,7 +54,7 @@ Contact us, please get in touch and we can give an extended demo or talk you thr
 <a href="https://www.youtube.com/watch?v=sAX4oZbkLRY"><img src="https://img.youtube.com/vi/sAX4oZbkLRY/0.jpg" width="25%"></a>
 
 Next Steps:
-We have learned a bit of background, now let’s have a look at downloading and familiarising ourselves with Flapjack in the Session 2 
+We have learned a bit of background, now let's have a look at downloading and familiarising ourselves with Flapjack in the Session 2 
 
 
 

@@ -30,7 +30,7 @@ All data that Germinate holds is related back to the underlying germplasm (this 
 
 ### Getting help 
 
-If you’re ever stuck while using Germinate, use the help button which can alwas be found in the top right hand side of the Germinate interface.
+If you're ever stuck while using Germinate, use the help button which can alwas be found in the top right hand side of the Germinate interface.
 
 <img src="session-3/help.png" style="max-width: 100%;">
 
@@ -107,7 +107,7 @@ The passport page of a germplasm is where all information available for this ger
 
 ## Accessions Plants/Plots and Samples 
 
-Germplasm in Germinate is stored at different levels: ‘Accession’, ‘Plant/Plot’ and ‘Sample’ called ‘entity types’. Plant/plot level material is usually derived from accession germplasm and samples can be taken from either plant/plot or accession level. This level of information can be seen in the main germplasm table by making sure you have the ***Entity type*** column turned on. We will look at this in more detail when we look at exporting data from Germinate.
+Germplasm in Germinate is stored at different levels: ‘Accession', ‘Plant/Plot' and ‘Sample' called ‘entity types'. Plant/plot level material is usually derived from accession germplasm and samples can be taken from either plant/plot or accession level. This level of information can be seen in the main germplasm table by making sure you have the ***Entity type*** column turned on. We will look at this in more detail when we look at exporting data from Germinate.
 
 With the table filtering active, sort the table by collection date in ascending order. What is the first germplasm in the table? 
 

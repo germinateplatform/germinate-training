@@ -19,7 +19,7 @@ Getting Started Menu:
 
 <img src="flapjack-4/flapjack3.png" style="max-width: 100%;">
 
-First, Select the Genotype and Map data you’d like to import from the selection of tabs in the import data window. As mentioned previously, a map and genotype file are all that’s required to create a flapjack project.
+First, Select the Genotype and Map data you'd like to import from the selection of tabs in the import data window. As mentioned previously, a map and genotype file are all that's required to create a flapjack project.
 
 <img src="flapjack-4/flapjack4.png" style="max-width: 100%;">
 
@@ -34,7 +34,7 @@ Navigating between different chromosomes is achieved by using the Chromosome pul
 <img src="flapjack-4/flapjack5.png" style="max-width: 100%;">
 
 Data Visualisation
-It’s possible to zoom in and out of the genotype view using either the zoom bar at the bottom right-hand side of the flapjack window 
+It's possible to zoom in and out of the genotype view using either the zoom bar at the bottom right-hand side of the flapjack window 
 
 <img src="flapjack-4/flapjack6.png" style="max-width: 100%;">
 
@@ -50,7 +50,7 @@ Distribution of markers visible on screen can be viewed below the chromosome lay
 <img src="flapjack-4/flapjack9.png" style="max-width: 100%;">
 
 Line, marker, and genotype is displayed at the bottom of the flapjack window as the mouse is placed over the genotype data and the overview window (bottom left-hand side) displays full chromosome view.
-Now we’ve imported our map and genotype data, are comfortable navigating between and along chromosomes in genotype view lets looks at other importing options.
+Now we've imported our map and genotype data, are comfortable navigating between and along chromosomes in genotype view lets looks at other importing options.
 Importing Phenotypes
 To import phenotype information, again use the import data options available, browse and select the appropriate file and click import
 
@@ -84,7 +84,7 @@ We can select default view and for example on chromosome 3H we can now see a QTL
 
 <img src="flapjack-4/flapjack16.png" style="max-width: 100%;">
 
-It’s possible to create multiple views of your data to allow for various analysis within one project by right clicking on ‘default view’ in the data set window and selecting create new view. 
+It's possible to create multiple views of your data to allow for various analysis within one project by right clicking on ‘default view' in the data set window and selecting create new view. 
 
 <img src="flapjack-4/flapjack17.png" style="max-width: 100%;">
 

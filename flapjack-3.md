@@ -19,12 +19,12 @@ Bear in mind a Flapjack project can be created using only a Map and Genotype fil
 ### File Format
 What file format does Flapjack use?
 
-Input files should be in tab delimited format. The examples we’ll look at have been created in Microsoft Excel. Use ‘Save as’ option in Microsoft Excel and select Text (Tab delimited). 
+Input files should be in tab delimited format. The examples we'll look at have been created in Microsoft Excel. Use ‘Save as' option in Microsoft Excel and select Text (Tab delimited). 
 
-Let’s look at examples of each file type:
+Let's look at examples of each file type:
 
 #### Map file
-A map file should contain a header line #fjfile = MAP. It should contain a column with your marker name, a column with a chromosome designation and a column with physical or genetic marker location. Don’t panic if your chromosome and locations aren’t in order, flapjack will do this for you!
+A map file should contain a header line #fjfile = MAP. It should contain a column with your marker name, a column with a chromosome designation and a column with physical or genetic marker location. Don't panic if your chromosome and locations aren't in order, flapjack will do this for you!
 
 <img src="flapjack-3/flapjack1.png" style="max-width: 100%;">
  
