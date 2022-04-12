@@ -7,7 +7,7 @@ title: Germinate Training
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white">
+<table bgcolor="white" align="center">
   <tbody>
     <tr>
       <td align="center" valign="middle">
