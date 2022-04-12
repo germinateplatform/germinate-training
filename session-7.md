@@ -3,7 +3,7 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white">
+<table bgcolor="white" align="center">
   <tbody>
     <tr>
       <td align="center" valign="middle">
@@ -22,47 +22,6 @@
 # Session 7: Phenotypic data
 
 This tutorial will show you how to explore, visualize and export phenotypic trials data.
-
-
-This tutorial will show you how to explore, visualize and export phenotypic trials data. 
-
-Traits 
-
-The traits page shows all traits that have been scored across all trials within Germinate and how many individual data points have been recorded. Selecting a trait opens the trait details page with all values for this trait so you can easily find which germplasm has the highest or lowest value or you can search for germplasm within specific ranges. 
-
-Below the table, a chart shows the distribution of values for this trait. In case of numeric traits, a boxplot will highlight the quartiles and for a categorical trait, a histogram is displayed. 
-
-Trial export 
-
-Comparing trials in different locations or across years as well as comparing traits to identify correlations and outliers can provide detailed insight into the data. The trials export page has a variety of visualization and query interfaces to explore trials data. Select one or multiple trials from the datasets table to continue. 
-
-Trials information is broken down into sections. Overview statistics show value distributions per trait across all selected datasets. This allows comparison of trials at different sites or from different years. 
-
-In the data matrix section, traits are plotted against each other to highlight patterns in the data like correlations and outliers. The traits that should be plotted are selected from the list. Optionally, a sub-selection of germplasm can be made to limit the visualization to only germplasm from these subsets. The resulting visualization is a matrix of scatter plots, each showing the combination of two traits. Each data point represents a germplasm scored for those two traits within the trial. Data can be coloured by things like treatment, recording date, or marked germplasm to further highlight the differences in the data. 
-
-If only two traits are selected, a more detailed scatter plot is displayed showing data distributions along both axes. 
-
-The comparison section will plot a small subset of germplasm side by side for a selection of traits to emphasize the germplasm performance compared to others. 
-
-The data table presents a different perspective onto the data and offers all the table filtering and sorting functionalities already seen in previous tutorials. Searching for the data of a specific germplasm or finding germplasm within a yield range or above a certain height are easily achieved. 
-
-The final tab is where data can be downloaded in tab-delimited format. This format allows easy import into tools like Flapjack, Excel, and R. Combining this phenotypic data with the genotypic data in Flapjack… 
-
- 
-
-Tasks: 
-
-Looking at the traits page, how many traits are in this Germinate database? 
-
-Sorting by the data points column, which trait has the most data points and how many? 
-
-Select trait X (categorical), which value appears most often? 
-
-Navigate to the trials export page and select the first two datasets. Using the overview statistics, which dataset has the higher average trait X? 
-
-Download the data using the last tab. Using Flapjack’s data loading dialog, load the trait data into Flapjack along with the genotypic data from the previous tutorial. 
-
-
 
 ## Traits
 

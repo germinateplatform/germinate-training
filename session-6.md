@@ -3,7 +3,7 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white">
+<table bgcolor="white" align="center">
   <tbody>
     <tr>
       <td align="center" valign="middle">
@@ -21,30 +21,6 @@
 
 # Session 6: Genotypic data
 
-Germinate stores genotypic data in the form of calls for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the maps item in the main menu. The table at the top shows all maps stored in Germinate and when selecting one of them, all markers and their positions are displayed both in tabular form as well as in a density histogram per chromosome or linkage group. Groupings of markers can be created by filtering the table or selection within the density chart. These are then available during the genotypic data export. 
-
-To export genotypic data, select a single or multiple datasets from the table on the genotypic export page. On the following page, data can either be exported as a whole dataset or by sub-setting using groups or marked items covered in an earlier tutorial. Next, a map is chosen from the dropdown menu. Germinate supports multiple export formats for genotypic data. By default, the export will always include a flat tab-delimited file and optionally the same data in Flapjack or Hapmap format. 
-
-Genotypic data is exported asynchronously meaning you can keep using Germinate while your requested data is exported. Germinate will let you know when your download is ready. Extract the resulting zipped folder and double click the Flapjack file to load the data into Flapjack. 
-
-Tasks: 
-
-Identify the maps page. How many maps are there? 
-
-How big is the largest map? 
-
-What’s the maximum position on chromosome X? 
-
-Select the first genotypic dataset to export. How many germplasm groups are available? 
-
-How many marker groups? 
-
-Start the export process by selecting the “Flapjack” export format. 
-
-
-
-
-
 Germinate stores genotypic data in the form of calls for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the maps item in the main menu.
 
 <img src="session-6/img/genotypes-maps-menu-item.png" style="max-width: 100%;" alt="Genotypic maps menu item">
@@ -59,7 +35,7 @@ Upon selection, all markers and their positions are displayed both in tabular fo
 
 <img src="session-6/img/genotypes-maps-marker-histogram.png" style="max-width: 100%;" alt="Genotypic maps histogram">
 
-Groupings of markers can be created by filtering the table or selection within the density chart. These are then available during the genotypic data export.
+Groupings of markers can be created by filtering the table or selection within the density chart. These are then available during the genotypic data export as seen in Session 5.
 
 <img src="session-6/img/genotypes-export-menu-item.png" style="max-width: 100%;" alt="Genotypic export menu item">
 

@@ -37,6 +37,7 @@ This training material was made possible through funding from the Templeton Worl
 - <a href="session-6.html">Session 6: Genotypic data</a>
 - <a href="session-7.html">Session 7: Phenotypic data</a>
 - <a href="session-8.html">Session 8: Geographic data</a>
+- <a href="session-9.html">Session 9: Searching for data</a>
 
 Flapjack training Draft
 
