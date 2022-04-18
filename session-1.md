@@ -123,6 +123,8 @@ Your details will then be passed to the Germinate administrator for your databas
 
 ## We have learned a bit about Germinate and how to access it, now lets have a look at the main Germinate user interface in Session 2
 
+## [Click here to go to Session 2 "The Germinate Web Interface"](session2.html)
+
 <br/>
 
 > ### About
