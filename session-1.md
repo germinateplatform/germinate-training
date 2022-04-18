@@ -7,18 +7,19 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="100" alt="Crop Trust">
+        <img src="img/crop-trust.svg" width="200" alt="Crop Trust">
       </td>
       <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="100" alt="Templeton World Charity Foundation">
+        <img src="img/templeton.svg" width="200" alt="Templeton World Charity Foundation">
       </td>
       <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="100" alt="The James Hutton Institute">
+        <img src="img/hutton.svg" width="200" alt="The James Hutton Institute">
       </td>
     </tr>
   </tbody>
 </table>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
 
 # Session 1: Getting Started and Introduction to Germinate
 
@@ -33,9 +34,9 @@ In each section where there are example files that we are using then we will lin
 This training has been designed for you to carry out at your own pace. Each section is self contained and while we recommend that you carry each out in series, you can do this training at your own pace and come back to sections if you are unsure or just want to try the user excersises again at the end of each section.
 
 ## Important Germinate Links
-For all information on Germinate take a look at https://germinateplatform.github.io/get-germinate/ which will give you an overview of the project as well as links to where you can access the different publicly available Germinate databases we have and how to access the code that underpins Germinate if you want to contribute to the project.
+For all information on Germinate take a look at [our GitHub page](https://germinateplatform.github.io/get-germinate) which will give you an overview of the project as well as links to where you can access the different [publicly available Germinate databases](https://germinateplatform.github.io/get-germinate/#databases) that we have and how to access the code that underpins Germinate if you want to contribute to the project.
 
-If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to germinate@hutton.ac.uk. You can also log bugs and feature requests on our Github page https://github.com/germinateplatform
+If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk). You can also [log bugs and feature requests on our Github page](https://github.com/germinateplatform)
 
 There are two main Germinate publications that are well worth reading and will give you a bit of background to the project.
 
@@ -60,7 +61,7 @@ Germinate stores a number of different data types including: passport, phenotypi
 
 ### Where is Germinate developed? 
 
-Germinate has been developed by the Information and Computational Sciences Department at the James Hutton Institute just outside of Dundee in Scotland. We have been developing Germinate since around 2005 and in recent years there has been a significant improvement on the functionality that Germinate offers its users. 
+Germinate has been developed by the Information and Computational Sciences Department at the James Hutton Institute [just outside of Dundee in Scotland](https://www.google.com/maps/@56.4582505,-3.0706454,2500m/data=!3m1!1e3). We have been developing Germinate since around 2005 and in recent years there has been a significant improvement on the functionality that Germinate offers its users. For more information on the James Hutton Institute you can [have a look at our webpage](https://www.hutton.ac.uk).
 
 From originally only storing a few markers and germplasm entries we now have databases with hundreds of thousands of plant lines and millions of SNP markers and phenotype data points.
 
