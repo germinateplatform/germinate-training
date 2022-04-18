@@ -7,13 +7,13 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+        <img src="img/crop-trust.svg" width="100" alt="Crop Trust">
       </td>
       <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+        <img src="img/templeton.svg" width="100" alt="Templeton World Charity Foundation">
       </td>
       <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+        <img src="img/hutton.svg" width="100" alt="The James Hutton Institute">
       </td>
     </tr>
   </tbody>
