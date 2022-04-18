@@ -7,23 +7,25 @@
 Welcome to Flapjack.
 We have created a series of Flapajck training tutorials that explain Flapjack operation and analysis features. We aim to deliver Flapjack hands on training with real data examples resulting in users gaining valuable process and analysis understanding.
 
-There are 4 tutorials covering Flapjack basic operation, input files, importing & data navigation and data views and visualisation. Additional analysis tutorials cover similarity matrix & Dendrogram creation, Marker assisted backcrossing, F1 analysis, Forward breeding & Pedigree verification.
+There are tutorials covering Flapjack basic operation, input files, importing & data navigation and data views and visualisation. Additional analysis tutorials which we are developing will cover similarity matrix & Dendrogram creation, Marker assisted backcrossing, F1 analysis, Forward breeding & Pedigree verification and will be available soon.
 
-Each tutorial has its own YouTube video that explains and demonstrates concepts we want to convey, some will have additional information then a series of tasks and answers that will let you get experience in using Flapjack using real data.
+Each tutorial has its own video that explains and demonstrates concepts we want to convey, some will have additional information then a series of tasks and answers that will let you get experience in using Flapjack using real data.
 
 This training has been designed for you to carry out at your own pace. Each section is self-contained and while we recommend that you carry each out in series, you can do this training at your own pace and come back to sections if you are unsure or just want to try the user exercises again at the end of each section.
-Important Flapjack Links
 
-For all information on Flapjack look at https://ics.hutton.ac.uk/flapjack/ which will give you an overview of the application as well as download links, help and documentation, most recent update features and publication information.
+### Important Flapjack Links
 
-If you have any questions about Flapjack or just want to chat through the benefits and features that it can offer, please just drop us an email to flapjack@hutton.ac.uk. Updates will be posted here https://twitter.com/cropgeeks and you can also log bugs and feature requests on our Github page https://github.com/cropgeeks/flapjack
+For all information on Flapjack look at https://ics.hutton.ac.uk/flapjack which will give you an overview of the application as well as download links, help and documentation, most recent update features and publication information.
 
-The original Flapjack publication will give you a bit of background to the project and is worth a read but please remember that Flapjack has developed significantly since 2010!
-Milne I, Shaw P, Stephen G, Bayer M, Cardle L, Thomas WTB, Flavell AJ and Marshall D. 2010. Flapjack – graphical genotype visualization. Bioinformatics 26(24), 3133-3134.
+If you have any questions about Flapjack or just want to chat through the benefits and features that it can offer, please just drop us an email to flapjack@hutton.ac.uk. Software updates will be posted here https://twitter.com/cropgeeks and you can also log bugs and feature requests on our Github page https://github.com/cropgeeks/flapjack
+
+The original Flapjack publication will give you a bit of background to the project and is worth a read but please remember that Flapjack has developed significantly since 2010 and now has many more useful features!
+
+>Milne I, Shaw P, Stephen G, Bayer M, Cardle L, Thomas WTB, Flavell AJ and Marshall D. 2010. Flapjack – graphical genotype visualization. Bioinformatics 26(24), 3133-3134.
 
 ## Lets get started!
 ### Why use Flapjack?
-In late noughties there was a huge increase in genetic information available to researchers that was driven by next generation sequencing technologies which drove down the cost of large sequencing projects. High throughput genotyping platforms were developed to help reduce genomic and data complexity and software to handle such data volumes was required.
+In late 'noughties' there was a huge increase in genetic information available to researchers that was driven by next generation sequencing technologies (NGS) which drove down the cost of large sequencing projects. High throughput genotyping platforms were developed to help reduce genomic and data complexity and software to handle such data volumes was required.
 
 ### What types of data can Flapjack analyse?
 Flapjack was developed to handle high throughput single nucleotide polymorphism or SNP data and Genotyping by Sequencing or GBS data from various platforms. QTL and Phenotype data can also be added to flapjack to provide analysis options and interactions. 
@@ -51,10 +53,10 @@ Contact us, please get in touch and we can give an extended demo or talk you thr
 
 ### Now watch this brief introductory video on Flapjack
 
-<a href="https://www.youtube.com/watch?v=sAX4oZbkLRY"><img src="https://img.youtube.com/vi/sAX4oZbkLRY/0.jpg" width="25%"></a>
+<a href="https://www.youtube.com/watch?v=sAX4oZbkLRY"><img src="https://img.youtube.com/vi/sAX4oZbkLRY/0.jpg" width="400px"></a>
 
 Next Steps:
-We have learned a bit of background, now let's have a look at downloading and familiarising ourselves with Flapjack in the Session 2 
+We have learned a bit of background, now let's have a look at downloading and familiarising ourselves with Flapjack in [Session 2](flapjack-2.md) 
 
 
 

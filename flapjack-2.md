@@ -7,17 +7,19 @@ We have learned a bit of background in Session 1, now let's have a look at downl
 
 This tutorial will guide you through how to download and open flapjack & also how to familiarise ourselves with the application.
 
->Downloading Flapjack
-Where can I download flapjack? Flapjack is available to download from the James Hutton Institute, Information and Computer Sciences web pages.
+### Downloading Flapjack
+Where can I download flapjack? Flapjack is available to download from the James Hutton Institute, Information and Computer Sciences web pages. You can access the downloads by going to [https://ics.hutton.ac.uk/flapjack](https://ics.hutton.ac.uk/flapjack) then by selecting 'Download' from the right hand side menu.
 
-<img src="flapjack-2/flapjack1.png" width="60%">
+<img src="flapjack-2/flapjack1.png" width="100%">
 
+Once you select the download page you can chose which version of Flapjack you need to run on your computer.
 
 ### What platforms can Flapjack run on?
-Flapjack is available on Windows (64 bit), MacOS and if you prefer using the command line a Linux (64 bit) version exists. If you use Bioconda, then Flapjack can be installed with: conda install flapjack.
+Flapjack is available on Windows (64 bit), MacOS and if you prefer using the command line a Linux (64 bit) version exists. If you use [Bioconda](https://bioconda.github.io), then Flapjack can be installed with: 
 
-In this tutorial, we will use the Windows (64 bit) version as an example
-Follow the instructions provided by the graphical installer to install Flapjack. Note that Flapjack should not require administrator privileges to install or run.
+>conda install flapjack.
+
+In this tutorial, we will use the Windows version as an example but everything shown here is the same on all platforms. Download Flapjack then follow the instructions provided by the graphical installer to install the application. Note that Flapjack should not require administrator privileges to install or run.
 
 <img src="flapjack-2/flapjack2.png" style="max-width: 100%;">
 

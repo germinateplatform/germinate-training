@@ -19,6 +19,7 @@
   </tbody>
 </table>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
 
 # Session 2: The Germinate Web Interface
 

@@ -24,10 +24,11 @@ title: Germinate Training
 </table>
 
 # Germinate training material
+Last Updated: 18th April 2022
 
 The following material has been developed to allow you to get some experience in using Germinate. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
 
-This training material was made possible through funding from the Templeton World Charity Foundation, Inc. Grant ID TWCF0400 'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'. 
+This training material was made possible through funding from the Templeton World Charity Foundation, Inc. Grant ID TWCF0400 'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'. We will update this list with new training materials and resources as we develop them. Just get in touch with us [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) if you have any questions or any suggestions on how we can improve this resource. Our intention is to keep this under continual review so there will be updated materials from time to time so keep an eye on this page for updates.
 
 - <a href="session-1.html">Session 1: Introduction to Germinate</a>
 - <a href="session-2.html">Session 2: The Germinate Web Interface</a>
@@ -47,3 +48,5 @@ Flapjack training Draft
 - <a href="flapjack-4.html">Session 4: Flapjack import and navigating</a>
 - <a href="flapjack-5.html">Session 5: Flapjack data views and visualization options</a>
 - <a href="flapjack-6.html">Session 6: Flapjack similarity matrix, dendrogram and PCoA</a>
+
+This training has been written and developed by Sebastian Raubach, Malcolm Macaulay and Paul Shaw at the James Hutton Institute in Scotland.
