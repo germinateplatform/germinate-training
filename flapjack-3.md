@@ -40,19 +40,20 @@ A phenotype file should contain the header line #fjfile = Phenotype. It should c
  
 A Features or QTL file contains the header #fjfile = QTL and should contain a minimum of 7 columns. Column A contains your QTL name, Columns B and C refer to QTL chromosome and maker location which must match the marker information from your map file. Columns D - E (Pos-min and Pos-max) refer to the range where your QTL lies on your map. Column F contain trait name and column G refers to the experiment in question. Additional information can be added to enhance analysis.
 
-<img src="flapjack-4/flapjack1.png" style="max-width: 100%;">
- 
-We are now at the stage where we can create a flapjack project. In the next tutorial we will look at importing your data.
+To import data we click on 'File' then on 'Import Data'. We will cover that in the next tutorial but in the meantime watch the following video on data formats and check out more detailed Flapjack [help documentation on file formats here](http://flapjack.hutton.ac.uk/en/latest/projects_&_data_formats.html).
 
-<a href="https://www.youtube.com/watch?v=0WyqcLQOm8Q"><img src="https://img.youtube.com/vi/0WyqcLQOm8Q/0.jpg" width="25%"></a>
+
+ 
+
+
+<a href="https://www.youtube.com/watch?v=0WyqcLQOm8Q"><img src="https://img.youtube.com/vi/0WyqcLQOm8Q/0.jpg" width="400px"></a>
 
 # Tasks
-1.	<details><summary>Save Tutorial Microsoft Excel files Flapjack Genotypes, Flapjack Map, Flapjack Phenotypes, Flapjack QTL as Text Tab delimited files</summary>Hello World</details>
-
-
+1.	<details><summary>Save Tutorial Microsoft Excel files Flapjack Genotypes, Flapjack Map, Flapjack Phenotypes, Flapjack QTL as Text Tab delimited files</summary>Use the Flapjack help pages to get more information and to get examples of valid input files.</details>
 
 
 <br/>
 
+Next Steps: We are now at the stage where we can create a flapjack project. In the next tutorial [import and navigating](flapjack-4.md) we will look at importing your data.
 > ### About
 > This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.

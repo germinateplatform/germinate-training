@@ -6,30 +6,36 @@ Now we have Flapjack downloaded and suitably formatted input files, this is the 
 In this tutorial where we will cover the following topics:
 1)	Importing data files
 2)	Navigation and familiarising ourselves with the interface
-Importing Data
-Data can be imported from either the File menu:
+
+## Importing Data
+Data can be imported from either a) the File menu:
 
 <img src="flapjack-4/flapjack1.png" style="max-width: 100%;">
 
-The Icon ribbon:
+b) the Icon ribbon:
 
 <img src="flapjack-4/flapjack2.png" style="max-width: 100%;">
 
-Getting Started Menu:
+or c) the 'Getting Started' Menu on the main Flapjack screen:
 
 <img src="flapjack-4/flapjack3.png" style="max-width: 100%;">
 
-First, Select the Genotype and Map data you'd like to import from the selection of tabs in the import data window. As mentioned previously, a map and genotype file are all that's required to create a flapjack project.
+First, Select the Genotype and Map data you'd like to import from the selection of tabs in the import data window. As mentioned previously, a map and genotype file are all that's required to create a flapjack project. You can use your own data that you created in the previous tutorial or use some example data that you can access from Flapjack by selecting 'File' then 'Import' then clicking on the appropriate options. 
+
+For importing your own files you need to click on the 'Browse' button for both Map and Genotype files and to use Flapjack example data select the 'Example Data' tab on the import dialog box. Both options are shown below.
+
+<img src="flapjack-4/flapjack4_5.png" style="max-width: 100%;">
+
+If you choose to import your own data click on the 'Browse' button and navigate to the appropriate input file on your file system. Once you have selected your desired files cilck on the Import map/genotypes option.
 
 <img src="flapjack-4/flapjack4.png" style="max-width: 100%;">
 
-Browse and select your desired files and click the Import map/genotypes option.
+If you choose to use example data just click on 'Open example' and the example data will be loaded into the Flapjack interface. 
 
-
-Data Navigation 
+## Data Navigation 
 Now we can start to start to examine our genotype and map data.
 Viewing data by Chromosome
-Navigating between different chromosomes is achieved by using the Chromosome pull down menu
+Navigating between different chromosomes or linkage groups is achieved by using the Chromosome drop down menu. The chromosomes or linkage groups are imported from the maps file in the previous step. Markers whose position is unknown can be assigned to an 'Unknown' chromosome if desired - this can be called anything.
 
 <img src="flapjack-4/flapjack5.png" style="max-width: 100%;">
 

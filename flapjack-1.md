@@ -5,7 +5,7 @@
 
 ### Session 1: Introduction to Flapjack
 Welcome to Flapjack.
-We have created a series of Flapajck training tutorials that explain Flapjack operation and analysis features. We aim to deliver Flapjack hands on training with real data examples resulting in users gaining valuable process and analysis understanding.
+We have created a series of Flapajck training tutorials that explain Flapjack operation and analysis features. We aim to deliver Flapjack hands on training with real data examples resulting in users gaining valuable process and analysis understanding. This training will combine videos and examples along with links to the relvant Flapjack help pages which will help give you a working knowledge of how to use Flapjack. We hope that this training will act as a springboard to help you start to explore your data and explore all the tools and features that Flapjack can offer.
 
 There are tutorials covering Flapjack basic operation, input files, importing & data navigation and data views and visualisation. Additional analysis tutorials which we are developing will cover similarity matrix & Dendrogram creation, Marker assisted backcrossing, F1 analysis, Forward breeding & Pedigree verification and will be available soon.
 
