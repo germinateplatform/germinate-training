@@ -1,23 +1,9 @@
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
+  <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
-<table bgcolor="white" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
 
 
 # Session 3: Working with Germplasm
@@ -26,7 +12,7 @@ This tutorial will show you how to work with germplasm entries held in Germinate
 
 All data that Germinate holds is related back to the underlying germplasm (this is one of our core concepts and the foundataion for tools like Germinate) and so being able to effectively work with germplasm and utislise the tools that we offer is important in becoming proficient with Germinate.
 
-# Before we start
+## Before we start
 
 ### Getting help 
 
@@ -40,13 +26,13 @@ This help provides more information about the current page or functionality. Thi
 
 Refer back to help if you are having problems but we are also there to help you so drop us an email on <a href="mailto:germinate@hutton.ac.uk">germinate@hutton.ac.uk</a> with any problems you may encounter.
 
-# So lets get started!
+## So lets get started!
 
-We will use the Germinate demo database in this instance. The demo database contains real data but we have anonomised it and assigned a fictional plant species, the [Cactaur](https://en.wikipedia.org/wiki/Cactuar). We have done this because all projects are different and Germinate supports more data types than projects generally contain. The demo database has all data types we support along with all features available to users to try out in a safe environment.
+We will use the Germinate demo database in this instance (you should have it bookmarked but if not you can [access it here](https://ics.hutton.ac.uk/germinate-training)). The demo database contains real data but we have anonomised it and assigned a fictional plant species, the [Cactaur](https://en.wikipedia.org/wiki/Cactuar). We have done this because all projects are different and Germinate supports more data types than projects generally contain. The demo database has all data types we support along with all features available to users to try out in a safe environment.
 
 ***Rememeber you can't break anything use the Germinate Demo database to play about with features.***
 
-Firstly we are going to visit this link: https://ics.hutton.ac.uk/germinate-demo then once there click on the "Data" menu item on the left hand menu then on the "Germplasm" menu item.
+Once you are at [https://ics.hutton.ac.uk/germinate-demo](https://ics.hutton.ac.uk/germinate-demo) then click on the "Data" menu item on the left hand menu then on the "Germplasm" menu item.
 
 You should now see something like this:
 
@@ -117,7 +103,7 @@ Navigate to the passport page of X, what is Y?
 
 ## Tasks:
 
-1. <details><summary>Go to the main Germplasm list page and try showing and hiding columns.</summary>You can navigate to the page by clicking <a href="https://ics.hutton.ac.uk/germinate-demo/#/data/germplasm">here</a> then selecting table options from the top left hand side of the germplasm table.</details>
+1. <details><summary>Go to the main Germplasm list page and try showing and hiding columns.</summary>You can navigate to the page by clicking <a href="https://ics.hutton.ac.uk/germinate-training/#/data/germplasm">here</a> then selecting table options from the top left hand side of the germplasm table.</details>
 
 2. <details><summary>Using the germplasm table filtering, search for germplasm collected in Morocco.</summary>If you want to try using the wildcard <strong>%</strong> try changing the search from <strong>Equal</strong> to <strong>Contains</strong> and your search term to mo<strong>%</strong>. Do you get the same results? Why are there other results in the search now?</details>
 
@@ -125,5 +111,25 @@ Navigate to the passport page of X, what is Y?
 
 4. <details><summary>Navigate to the passport page for the line whose country of collection is <strong>Kenya</strong> where the collection site is above <strong>1500m</strong> and the accesion biological status is equal to <strong>Natural</strong>. What datasets does this line appear in?</summary>There are 3 datasets that this line appears in. Datasets "Sample Phenotype Data",  "Sample Compound Data" and "Sample Genotype Data Subset 2."</details>
 
+
+Next Steps:  We have learned a bit about interacting with germplasm records in Germinate, now [lets have a look at experiments, datasets and other resources in Session 4](session-4.html).
+
+
 > ### About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
+
+<table bgcolor="white" align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+      </td>
+      <td align="center" valign="middle">
+        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+      </td>
+      <td align="center" valign="middle">
+        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+      </td>
+    </tr>
+  </tbody>
+</table>
