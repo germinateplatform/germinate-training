@@ -1,30 +1,16 @@
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
+  <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
-<table bgcolor="white" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 
 # Session 4: Experiments, Datasets and other Data Resources
 
 Germinate can hold large amounts of experimental data (millions of datapoints). These can include data from phenotypic trials, genotypic SNP (or other indexed polymorphism) data, chemical compound information and climate measurements. Germinate currently supports 3 levels of granularity for data. Individual data points (level 3) make up datasets (level 2). Datasets are assigned to experiments (level 1). So an experiment cotains one more more datasets and a dataset contains one or more datapoints. Figure 1 shows the hierarchey of data levels in Germinate.
 
-<img src="session-4/4.png"  style="max-width: 100%;">
+<img src="session-4/4.png"  style="max-width: 50%;">
 
 ***Figure 1 Germinate data levels***
 
@@ -68,15 +54,23 @@ Lets export some data and look at the options that are available in Germinate. C
 
 <img src="session-4/trials-export.png" style="max-width: 100%;">
 
-The coloured boxes show the different data visualization and data export options that are available for this dataset. There are also selection mechanisms to choose traits of interest and also to choose which groups you want to export data from. Groups will be covered later in this material but it is a way to allow subsets of large germplasm collections to be created and used to export data against. You only get data for germplasm entries that you are actually interested in. Here we are going to select only the traits highligted in white, and we won't use a specific group in this case. We are also going to click the **Data statistics** option then finally click on **Plot**. Germinate will now go and perform some basic calculations to generate box plots for those traits across all germplasm entries within the selected dataset.
+The coloured boxes show the different data visualization and data export options that are available for this dataset. There are also selection mechanisms to choose traits of interest and also to choose which groups you want to export data from. Groups will be covered later in this material but it is a way to allow subsets of large germplasm collections to be created and used to export data against. You only get data for germplasm entries that you are actually interested in. Here we are going to select only the traits highligted in grey, and we won't use a specific group in this case. We are also going to click the **Data statistics** option then finally click on **Plot**. Germinate will now go and perform some basic calculations to generate box plots for those traits across all germplasm entries within the selected dataset.
 
 <img src="session-4/trials-boxplot.png" style="max-width: 100%;">
+Now click on the **Data matrix** option and select the traits again then cilck on **Plot** which will generate a matrix of scatterplots as shown here. Try hovering your mouse pointer over points to see what additional information is displayed.
+
 <img src="session-4/trials-matrix.png" style="max-width: 100%;">
+
+These charts are very informative but we can improve by introducing colour. In the **Colour by** section below where we selected our phenotypes click and select the **Trial Site** option in the drop down box.
+
 <img src="session-4/trials-matrix-color-by.png" style="max-width: 100%;">
+
+This will then colour the matrix by the trial sites which underly the data. Not all data will have trial sites but in this case we have a few sites from Scotland. Colouring allows you to visualize differences in the data easily.
+
 <img src="session-4/trials-matrix-colored-by-site.png" style="max-width: 100%;">
 
 
-The final dataset visualization that we will show here is the comparison tool which allows us to compare lines within a line group to be compared using boxplots. Boxplots allow us to visualize the spread of data. Single phenotypes can be selected then the charts redrawn. This tools is very effective in looking across germplasm within a group looking for lines with high or low values as well as identifying lines where data may be inaccurate or have unusual outliers (very high or very low values).
+The final dataset visualization that we will show here is the **Comparison** tool which allows us to compare lines within a line group to be compared using boxplots. Boxplots allow us to visualize the spread of data. Single phenotypes can be selected then the charts redrawn. This tools is very effective in looking across germplasm within a group looking for lines with high or low values as well as identifying lines where data may be inaccurate or have unusual outliers (very high or very low values). Click the **Comparison** option then select traits as before, now choose a group (this is a new step required for the **Comparison** option) then click on **Compare** and a chart similar to this will be generated. 
 <img src="session-4/trials-comparison.png" style="max-width: 100%;">
 
 The charts are interactive so if you hover over a boxplot the charts will show the maximum value, median value and minimum value along with the first and third quartile values. Our boxplot visualization can also be exported into bitmap or vevctor based formats for use in presentations or publicataions as well as tools to allow colours to be changed and allowing users to download the underlying data used to generate the chart.
@@ -85,19 +79,38 @@ The charts are interactive so if you hover over a boxplot the charts will show t
 
 Additional information on how to interpret boxplots can be [found here](https://en.wikipedia.org/wiki/Box_plot). Have a play about with the boxplot feature and explore the options that it gives you in providing an overview of a trait held in the database.
 
-Finally, all data from datasets can be exported in text format. We offer an interface that allows users to select 
+Finally, all data from datasets can be exported in text format. We offer an interface that allows users to select data to be exported. To see how this works select the **Data export** option then select your traits of interest then click on **Export**. A plain text file containing the data will then be downloaded to your computer.
 
 
 
 ## Tasks:
 
-1. <details><summary>How many datasets are available in Germinate?</summary>Answer: There are <strong>7</strong> datasets available in the demo version of Germinate.
+1. <details><summary>How many datasets are available in Germinate?</summary>Answer: There are 9 datasets available in the demo version of Germinate.
 
-2. <details><summary>Of the datasets how many are genotypic datasets?</summary>Answer: <strong>2</strong></details>
+2. <details><summary>Of the datasets how many are genotypic datasets?</summary>Answer: There are 2 genotypic datasets.</details>
 
-OTHER STUFF
+3. <details><summary>Select datasets with the ID of 5 and then select the 'Ear height' and 'Ear length' traits. Plot this data. What is the median 'Ear height' in this dataset?</summary>Answer: 138.65</details>
 
-Sometimes there is data that cannot be stored in Germinate directly. In those cases, the data can still be uploaded in any format and made available as direct downloads. This means that all your data is still available in a single location. 
+4. <details><summary>Using dataset ID 5 again plot the same data as in Q3 but this time use the 'Data matrix' option to determine the plant with the largest ear length and the plant with the largest ear height.</summary>Answer: ear length = CACTUAR-1869, ear height = CACTUAR-1058. Also note that when plotting only 2 traits this representation shows a density estimate of the datapoints too.</details>
+
+
+Next Steps:  We have learned a bit about interacting with germplasm records in Germinate, now [lets have a look at working with Germinate groups in Session 5](session-5.html).
 
 > ### About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
+
+<table bgcolor="white" align="center">
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+      </td>
+      <td align="center" valign="middle">
+        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+      </td>
+      <td align="center" valign="middle">
+        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+      </td>
+    </tr>
+  </tbody>
+</table>

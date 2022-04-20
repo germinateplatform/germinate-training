@@ -30,6 +30,7 @@ The following material has been developed to allow you to get some experience in
 
 This training material was made possible through funding from the Templeton World Charity Foundation, Inc. Grant ID TWCF0400 'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'. We will update this list with new training materials and resources as we develop them. Just get in touch with us [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) if you have any questions or any suggestions on how we can improve this resource. Our intention is to keep this under continual review so there will be updated materials from time to time so keep an eye on this page for updates.
 
+- <a href="session-0.html">First Things First</a>
 - <a href="session-1.html">Session 1: Introduction to Germinate</a>
 - <a href="session-2.html">Session 2: The Germinate Web Interface</a>
 - <a href="session-3.html">Session 3: Working with Germplasm</a>
