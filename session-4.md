@@ -3,7 +3,7 @@
   <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
-
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
 
 
 # Session 4: Experiments, Datasets and other Data Resources
