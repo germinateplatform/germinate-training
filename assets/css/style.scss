@@ -49,9 +49,11 @@ th {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .logos img {
+  margin: 10px;
   max-width: 100%;
   width: 200px;
 }
