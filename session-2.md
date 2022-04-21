@@ -21,7 +21,7 @@ Now thats finished lets look in more detail about the material the video covered
 
 > Use your Germinate bookmark from the previous session or to go [https://ics.hutton.ac.uk/germinate-training](https://ics.hutton.ac.uk/germinate-training) to follow along with this material.
 
-### Navigation
+## Navigation
 All navigation items are found on the left hand side of the Germinate interface. They allow the movement between different data types. Menu items with arrows "<" can be clicked to reveal additional items and toggled by clicking again. 
 
 Most navigation between pages will be done using the menu on the left hand side of the Germinate interface. It looks like this.
@@ -34,13 +34,13 @@ Where there are arrows "<" (as seen here next to ***Data*** ) this means that if
 
 Again, arrows show where additional menu levels can be selected and numbers in dark boxes show the count of items within a category. So for example in this case there are 7 ***Datasets***, 5 ***Experiments*** and 1 ***Data resources***
 
-### Searching
+## Searching
 
 Search is always found both in the left hand menu **and** at the top right hand side of interface in the *settings bar*. This is consistent so no matter what page you are on you will always find search here.
 
 We will cover search in much greater detain in Session 9 'Searching for Data'.
 
-### The Settings Bar
+## The Settings Bar
 
 <img src="session-2/settings_bar.png" style="max-width: 100%;">
 
@@ -59,7 +59,7 @@ The next option in the *settings bar* is *user options*. *User options* allows y
 
 > Be careful making changes in *advanced settings*, make sure you know what you are doing before making any changes as they appy site wide for all users!
 
-### Asynchronous Downloads Bar
+## Asynchronous Downloads Bar
 Some of the exports that you can do with Germinate may take a couple of minutes to run (we have datasets that have millions of genetic markers and hundreds of thousands of germplasm entries). Germinate now supports asynchronous downloads. This means that you can request data by running a query then go and do something else with Germinate while the query is executing (or grab a cup of coffee). When the data is ready the interface will let you know and you can download the data from here – no more hanging about waiting on data. To access the downloads click on the three horizontal lines at the top right hand side of the *settings bar* as shown below. 
 
 <img src="session-2/settings_bar4.png" style="max-width: 100%;">
@@ -84,7 +84,7 @@ This short tutorial has highlighted some of the cool features that Germinate off
 
 Next Steps:  We have learned a bit about the Germinate interface and where basic tools are located, now [lets have a look at working with germplasm in Session 3](session-3.html).
 
-> ### About
+> ## About
 > This training has been created under the <a href="https://www.templetonworldcharity.org/">Templeton World Charity Foundation, Inc.</a> Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the <a href="https://www.croptrust.org/">Crop Trust</a>. This training is free to use and released under a non-restrictive open source licence.
 
 <div class="logos">

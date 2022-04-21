@@ -29,7 +29,7 @@ You don't have to search for the name of something, the search term can be anyth
 
 Note that you may have to switch the comparison operator from `Equal` to `Contains` or even `Between` to fulfil your search needs.
 
-> ### About
+> ## About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
 
 <div class="logos">
