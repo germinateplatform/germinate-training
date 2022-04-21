@@ -31,3 +31,30 @@ $header-bg-color-secondary: #216778;
         max-width:120rem;
     }
 }
+
+
+td,
+th {
+  border: none !important;
+}
+
+.main-content table {
+  display: table;
+  width: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logos {
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.logos img {
+  margin: 10px !important;
+  max-width: 100%;
+  width: 200px;
+}
