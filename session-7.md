@@ -37,7 +37,7 @@ Trials information is broken down into sections. Each one offers a different per
 
 <img src="session-7/img/trials-export-tabs.png" style="max-width: 100%;" alt="Trials export tabs">
 
-The overview statistics show overall characteristics of the data within the selected datasets. Select the traits you want to see and optionally some germplasm groups. The resulting chart shows a box plot per trait and dataset highlighting the spread within a trait as well as the differences between seleccted datasets. If the datasets are from different locations/sites or years, this chart is an ideal way to compare these scenarios.
+The overview statistics show overall characteristics of the data within the selected datasets. Select the traits you want to see and optionally some germplasm groups. The resulting chart shows a box plot per trait and dataset highlighting the spread within a trait as well as the differences between selected datasets. If the datasets are from different locations/sites or years, this chart is an ideal way to compare these scenarios.
 
 <img src="session-7/img/trials-export-overview-boxplot.png" style="max-width: 100%;" alt="Overview boxplot">
 

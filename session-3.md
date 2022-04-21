@@ -28,9 +28,9 @@ Refer back to help if you are having problems but we are also there to help you 
 
 ## So lets get started!
 
-We will use the Germinate demo database in this instance (you should have it bookmarked but if not you can [access it here](https://ics.hutton.ac.uk/germinate-training)). The demo database contains real data but we have anonomised it and assigned a fictional plant species, the [Cactaur](https://en.wikipedia.org/wiki/Cactuar). We have done this because all projects are different and Germinate supports more data types than projects generally contain. The demo database has all data types we support along with all features available to users to try out in a safe environment.
+We will use the Germinate demo database in this instance (you should have it bookmarked but if not you can [access it here](https://ics.hutton.ac.uk/germinate-training)). The demo database contains real data but we have anonymised it and assigned a fictional plant species, the [Cactuar](https://en.wikipedia.org/wiki/Cactuar). We have done this because all projects are different and Germinate supports more data types than projects generally contain. The demo database has all data types we support along with all features available to users to try out in a safe environment.
 
-***Rememeber you can't break anything use the Germinate Demo database to play about with features.***
+***Remember you can't break anything use the Germinate Demo database to play about with features.***
 
 Once you are at [https://ics.hutton.ac.uk/germinate-demo](https://ics.hutton.ac.uk/germinate-demo) then click on the "Data" menu item on the left hand menu then on the "Germplasm" menu item.
 
@@ -73,7 +73,7 @@ Here, search criteria for each column can be defined and combined allowing simpl
 
 >cactuar-9%
 
-Now the ***%*** might appear confusing buy the ***%*** sign is the standard wildcard for SQL (database) queries and means that the query will look for everthing starting with ***cactuar-9*** then anything after it. It can be thought of like the * character in the Windows operating system.
+Now the ***%*** might appear confusing buy the ***%*** sign is the standard wildcard for SQL (database) queries and means that the query will look for everything starting with ***cactuar-9*** then anything after it. It can be thought of like the * character in the Windows operating system.
 
 <img src="session-3/germplasm-filter-search.png" style="max-width: 100%;">
 
@@ -109,7 +109,7 @@ Navigate to the passport page of X, what is Y?
 
 3. <details><summary>With the table filtering active, sort the table by collection date in ascending order. What is the first germplasm in the table?</summary></details> 
 
-4. <details><summary>Navigate to the passport page for the line whose country of collection is <strong>Kenya</strong> where the collection site is above <strong>1500m</strong> and the accesion biological status is equal to <strong>Natural</strong>. What datasets does this line appear in?</summary>There are 3 datasets that this line appears in. Datasets "Sample Phenotype Data",  "Sample Compound Data" and "Sample Genotype Data Subset 2."</details>
+4. <details><summary>Navigate to the passport page for the line whose country of collection is <strong>Kenya</strong> where the collection site is above <strong>1500m</strong> and the accession biological status is equal to <strong>Natural</strong>. What datasets does this line appear in?</summary>There are 3 datasets that this line appears in. Datasets "Sample Phenotype Data",  "Sample Compound Data" and "Sample Genotype Data Subset 2."</details>
 
 
 Next Steps:  We have learned a bit about interacting with germplasm records in Germinate, now [lets have a look at experiments, datasets and other resources in Session 4](session-4.html).
