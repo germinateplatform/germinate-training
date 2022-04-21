@@ -44,3 +44,14 @@ th {
   margin-left: auto;
   margin-right: auto;
 }
+
+.logos {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logos img {
+  max-width: 100%;
+  width: 200px;
+}
