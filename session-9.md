@@ -3,22 +3,6 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 # Session 9: Searching for data
 
 If you ever find yourself searching for a germplasm, a marker, a trait, or a location but you don't know the exact name, then the Germinate-wide search is where you'll find it. Simply type in a name-fragment into the search box at the top of the page and hit enter. Alternatively, first navigate to the search page using the main menu.
@@ -47,3 +31,9 @@ Note that you may have to switch the comparison operator from `Equal` to `Contai
 
 > ### About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
+
+<div class="logos">
+  <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+  <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+</div>

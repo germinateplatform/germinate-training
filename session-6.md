@@ -3,22 +3,6 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 # Session 6: Genotypic data
 
 Germinate stores genotypic data in the form of calls for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the maps item in the main menu.
@@ -63,3 +47,9 @@ Genotypic data is exported asynchronously meaning you can keep using Germinate w
 
 > ### About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
+
+<div class="logos">
+  <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+  <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+</div>
