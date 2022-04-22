@@ -1,6 +1,6 @@
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
+  <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
 # Session 7: Phenotypic data

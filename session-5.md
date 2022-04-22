@@ -56,7 +56,7 @@ Sort the germplasm groups by their size, how many germplasm are in the largest g
 
 These are simple examples but will give you an appreciation on how groups can be created. We also have other ways to create groups from germplasm tables which we will cover later. The best way to see how groups works is to experiment, create some and watch that group indicator increase or decrease as you add and remove plant lines.
 
-Next Steps:  We have learned a bit about interacting with germplasm records in Germinate, now [lets have a look at working with genotypic data in Session 6](session-6.html).
+Next Steps:  We've learned a bit about interacting with germplasm records in Germinate, now [lets have a look at working with genotypic data in Session 6](session-6.html).
 
 > ## About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
