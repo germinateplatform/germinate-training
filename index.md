@@ -24,7 +24,7 @@ title: Germinate Training
 </table>
 
 # Germinate training material
-Last Updated: 18th April 2022
+Last Updated: 11th May 2022
 
 The following material has been developed to allow you to get some experience in using Germinate. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
 
@@ -41,7 +41,7 @@ This training material was made possible through funding from the Templeton Worl
 - <a href="session-8.html">Session 8: Geographic data</a>
 - <a href="session-9.html">Session 9: Searching for data</a>
 
-Flapjack training Draft
+Flapjack training Coming Soon!
 
 - <a href="flapjack-1.html">Session 1: Getting Started and Introduction to Flapjack</a>
 - <a href="flapjack-2.html">Session 2: Flapjack basic operation</a>
