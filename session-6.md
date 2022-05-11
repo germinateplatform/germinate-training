@@ -3,6 +3,8 @@
   <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
+
 # Session 6: Genotypic data
 
 Germinate stores genotypic data in the form of an allele call for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the **maps** item in the main menu. Let's locate that and click on it to see what maps we have in the Germinate training database.

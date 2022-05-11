@@ -3,6 +3,8 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
+
 # Session 9: Searching for data
 
 If you ever find yourself searching for a germplasm, a marker, a trait, or a location but you don't know the exact name, then the Germinate-wide search is where you'll find it. Simply type in a name-fragment into the search box at the top of the page and hit enter. Alternatively, first navigate to the search page using the main menu.

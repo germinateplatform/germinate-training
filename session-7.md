@@ -3,6 +3,8 @@
   <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
+
 # Session 7: Phenotypic data
 
 This tutorial will show you how to explore, visualize and export phenotypic trials data. We can access traits by clicking on the **Traits** option in the left hand side menu in Germinate. **Traits** is found under **Data** -> **Trials Data**.

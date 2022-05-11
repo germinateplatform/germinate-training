@@ -3,6 +3,8 @@
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
+
 # Session 8: Geographic Data
 
 Germinate contains a few tools to work with geographic data. These can be found from the Germinate left hand side menu by selecting **Geographic data** The two options we have are to view **Locations** or do a **Geographic search**. To get started lets choose the **Locations** menu item and we can see the locations that we have stored in Germinate.
@@ -68,7 +70,10 @@ But what can we do now we can accurately select locations within Germinate? Well
 <img src="session-8/session8-12.png" style="max-width: 100%;" alt="Example of a search: Germplasm"> 
 
 
+## Tasks
 
+1. <details><summary>Geography lesson - how many locations are in the United Kingdom?</summary>Answer: There are 15 locations within the UK.</details>
+2. <details><summary>What is the closet location to Lisbon in Portugal? What is the furthest away plant line to Lisbon?</summary>Answer: Sevilla in Spain (~314Km depending on where you dropped the pin) and there are a few plant lines that have locations in Sydney, Australia (around 18,000Km away). If you did not get this remember you need to cilck on the 'Distance [Km]' table column to sort (and maybe again to toggle).</details>
 
 
 Next Steps:  We've learned a bit about geographic data in Germinate, now [lets have a look at searching for and finding data in Session 9](session-9.html).
