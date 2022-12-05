@@ -51,7 +51,7 @@ Sort the germplasm groups by their size, how many germplasm are in the largest g
 
 1. <details><summary>Go to the groups page. How many maps groups are there?</summary>Answer: 3</details>
 2. <details><summary>Select the germplasm groups then choose the one named 'F1 generation'. Explore the information that is available for one of the plants and explore.</summary>You should be able to access all the background data we have on each line on these pages. They contain a lot of information sometimes so explore and remember that data is always in the same order - in every Germinate database.</details>
-3. <details><summary>Go to dataset with the ID of 5. Now plot ear length against ear height using the data matrix option. Now limit this to just the 'Subselection based on pedigree' group. Colour based on 'treatment'. What is the plant line with the largest 'ear length' value?</summary></summary>Answer: CACTUAR-1930</details>
+3. <details><summary>Go to dataset with the ID of 5. Now plot ear length against ear height using the data matrix option. Now limit this to just the 'Subselection based on pedigree' group. Colour based on 'treatment'. What is the plant line with the largest 'ear length' value?</summary>Answer: CACTUAR-1930</details>
 4. <details><summary>Now using the chart from 3. create a group with all lines where 'ear height' is above 200. How many are there?</summary>Answer: 6</details>
 
 These are simple examples but will give you an appreciation on how groups can be created. We also have other ways to create groups from germplasm tables which we will cover later. The best way to see how groups works is to experiment, create some and watch that group indicator increase or decrease as you add and remove plant lines.
