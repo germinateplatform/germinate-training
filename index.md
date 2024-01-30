@@ -24,7 +24,7 @@ title: Germinate Training
 </table>
 
 # Germinate training material
-Last Updated: 18th April 2022
+Last Updated: 30th January 2024
 
 The following material has been developed to allow you to get some experience in using Germinate. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
 
