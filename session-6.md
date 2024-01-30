@@ -3,13 +3,15 @@
   <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
+Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
+
 # Session 6: Genotypic data
 
-Germinate stores genotypic data in the form of calls for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the maps item in the main menu. Let's locate that and click on it to see what we have in the Germinate training database.
+Germinate stores genotypic data in the form of an allele call for a specific locus. Genetic and physical maps are stored alongside this data and can be explored independently by selecting the **maps** item in the main menu. Let's locate that and click on it to see what maps we have in the Germinate training database.
 
 <img src="session-6/img/genotypes-maps-menu-item.png" style="max-width: 100%;" alt="Genotypic maps menu item">
 
-The table displayed shows all maps stored in Germinate along with the number of markers that are located on them. Germinate does not care if the maps are genetic or physical as long as the marker indexing system is consistent and makes sense across the entire map.
+The table displayed shows all maps stored in Germinate along with the number of markers thathave positions on them. Germinate does not care if the maps are genetic or physical as long as the marker indexing system is consistent and makes sense across the entire map.
 
 Click on the **All markers** map.
 
@@ -71,7 +73,7 @@ In this case we exported Flapjack format files so click on **Download** then ext
 5. <details><summary>Export data for one of the datasets then download the zip file and have a look at the 3 files that it contains.</summary>Remember if you select to download in Flapjack and/or HapMap then additional files will be creted and included in your download.</details>
 6. <details><summary>Try loading your data into Flapjack by either importing raw data or by using the generate Flapjack option.</summary>You will need to have Flapjack installed try <a href="flapjack-2.html">this tutorial</a> on installing Flapjack.</details>
 
-Next Steps:  We've learned a bit about genotypic data in Germinate, now [lets have a look at working with penotypic data in Session 7](session-7.html).
+Next Steps:  We've learned a bit about genotypic data in Germinate, now [lets have a look at working with phenotypic data in Session 7](session-7.html).
 
 > ## About
 > This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.

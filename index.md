@@ -24,6 +24,7 @@ title: Germinate Training
 </table>
 
 # Germinate training material
+
 Last Updated: 30th January 2024
 
 The following material has been developed to allow you to get some experience in using Germinate. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
@@ -41,13 +42,6 @@ This training material was made possible through funding from the Templeton Worl
 - <a href="session-8.html">Session 8: Geographic data</a>
 - <a href="session-9.html">Session 9: Searching for data</a>
 
-Flapjack training Draft
 
-- <a href="flapjack-1.html">Session 1: Getting Started and Introduction to Flapjack</a>
-- <a href="flapjack-2.html">Session 2: Flapjack basic operation</a>
-- <a href="flapjack-3.html">Session 3: Flapjack input files</a>
-- <a href="flapjack-4.html">Session 4: Flapjack import and navigating</a>
-- <a href="flapjack-5.html">Session 5: Flapjack data views and visualization options</a>
-- <a href="flapjack-6.html">Session 6: Flapjack similarity matrix, dendrogram and PCoA</a>
 
 This training has been written and developed by Sebastian Raubach, Malcolm Macaulay and Paul Shaw at the James Hutton Institute in Scotland.

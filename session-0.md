@@ -3,9 +3,6 @@
   <img src="img/germinate-square-name.svg" width="150" alt="Germinate">
 </p>
 
-
-Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
-
 # Before we start...
 
 Firstly, thanks for taking the time to look at our Germinate training. Its a work in progress but we hope to develop it into a helpful resource on using the platform. Check back regularly for updates and in particular we are developing small "how to" tutorials using data on grasspea and finger millet. This training has been created with the support of the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/) to whom we are grateful for supporting our vision.
@@ -31,10 +28,20 @@ There are two main Germinate publications that are well worth reading and will g
 
 > Shaw, P.D., Raubach, S., Hearne, S.J., Dreher, K., Bryan, G., McKenzie, G., Milne, I., Stephen, G. and Marshall, D.F. (2017), Germinate 3: Development of a Common Platform to Support the Distribution of Experimental Data on Crop Wild Relatives. Crop Science, 57: 1259-1273. https://doi.org/10.2135/cropsci2016.09.0814
 
-If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk).
-
+If you have any questions about Germinate or just want to chat through the benefits and features that it can offer please just drop us an email to [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) and keep an eye on [@germinatehub](https://www.twitter.com/germinatehub) on Twitter
 
 
 **So lets get started!**
 
 Next Steps: [Germinate Session 1 Getting Started and Introduction to Germinate](session-1.html)
+
+<br/>
+
+> ## About
+> This training has been created under the [Templeton World Charity Foundation, Inc.](https://www.templetonworldcharity.org/) Grant ID TWCF0400 *'Safeguarding crop diversity for food security: Pre-breeding complemented with Innovative Finance'* which is managed by the [Crop Trust](https://www.croptrust.org/). This training is free to use and released under a non-restrictive open source licence.
+
+<div class="logos">
+  <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+  <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+</div>

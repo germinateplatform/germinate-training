@@ -9,6 +9,8 @@ Contact us: [germinate@hutton.ac.uk](mailto:germinate@hutton.ac.uk) or [@germina
 
 # Session 1: Getting Started and Introduction to Germinate
 
+> We recently provided a training session Germinate which can be found here [YouTube Germinate Training](https://youtu.be/irAvxIOAvL4). It's worth watching this before undertaking this training as it will give you a good foundataion to base these materials on.
+
 ## Why use Germinate? 
 It's often difficult trying to get a handle on large datasets and what they contain. The complexity and volumes of data are challenging to visualize so tools which help researchers do this are important in trying to get the most out of our data. Traditionally we may have used tools such as a spreadsheet to try and work with data, which is fine, but had its limitations. With datasets getting larger and larger we need tools that can efficiently handle these volumes of data and allow us to explore and interact with it. This is just not possible with spreadsheets.
 
