@@ -90,5 +90,6 @@ Next Steps:  We have learned a bit about the Germinate interface and where basic
 <div class="logos">
   <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
   <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
 </div>

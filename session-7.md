@@ -82,5 +82,6 @@ Next Steps:  We've learned a bit about trails data and traits data in Germinate,
 <div class="logos">
   <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
   <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
 </div>

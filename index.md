@@ -17,6 +17,9 @@ title: Germinate Training
         <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
       </td>
       <td align="center" valign="middle">
+        <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
+      </td>
+      <td align="center" valign="middle">
         <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
       </td>
     </tr>
