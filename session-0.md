@@ -45,4 +45,5 @@ Next Steps: [Germinate Session 1 Getting Started and Introduction to Germinate](
   <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
   <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+  <img src="img/sfgin.jpg" width="300" alt="DEFRA Soft Fruit GIN">
 </div>

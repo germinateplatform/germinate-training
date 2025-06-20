@@ -54,4 +54,5 @@ Next Steps:  We will add new tutorials on using Germinate including working with
   <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
   <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+  <img src="img/sfgin.jpg" width="300" alt="DEFRA Soft Fruit GIN">
 </div>

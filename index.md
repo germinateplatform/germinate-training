@@ -7,24 +7,13 @@ title: Germinate Training
   <img src="img/germinate-square-name.svg" width="300" alt="Germinate">
 </p>
 
-<table bgcolor="white" align="center">
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
-      </td>
-      <td align="center" valign="middle">
-        <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
-      </td>
-    </tr>
-  </tbody>
-</table>
+<div class="logos">
+  <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+  <img src="img/templeton.svg" width="300" alt="Templeton World Charity Foundation">
+  <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
+  <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+  <img src="img/sfgin.jpg" width="300" alt="DEFRA Soft Fruit GIN">
+</div>
 
 # Germinate training material
 
